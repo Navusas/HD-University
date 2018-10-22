@@ -1,0 +1,48 @@
+[
+  {
+    "Answers": [
+      {
+        "Answer": "a1",
+        "Rating": 50
+      },
+      {
+        "Answer": "a2",
+        "Rating": 20
+      },
+      {
+        "Answer": "a3",
+        "Rating": 20
+      },
+      {
+        "Answer": "a4",
+        "Rating": 10
+      }
+    ],
+    "Question": "Question",
+    "Level": 1,
+    "id": 0
+  },
+  {
+    "id": 1,
+    "Question": "Question",
+    "Level": 1,
+    "Answers": [
+      {
+        "Answer": "a1",
+        "Rating": 50
+      },
+      {
+        "Answer": "a2",
+        "Rating": 20
+      },
+      {
+        "Answer": "a3",
+        "Rating": 20
+      },
+      {
+        "Answer": "a4",
+        "Rating": 10
+      }
+    ]
+  }
+]
