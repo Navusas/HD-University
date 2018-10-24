@@ -8,8 +8,8 @@ package unaryPredicate;
  */
 
 
-/*
-
-To be completed.
-
-*/
+public class isMonotonic {
+    isMonotonic() {
+        
+    }
+}
