@@ -10,6 +10,6 @@ package unaryPredicate;
 
 public class isMonotonic {
     isMonotonic() {
-        
+
     }
 }
