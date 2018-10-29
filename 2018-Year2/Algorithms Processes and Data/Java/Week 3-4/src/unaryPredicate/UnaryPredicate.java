@@ -1,5 +1,7 @@
 package unaryPredicate;
 
+import Exceptions.IndexingError;
+
 /**
  * A unary predicate is a function that takes a single values and returns a boolean.
  *
@@ -11,6 +13,6 @@ package unaryPredicate;
  * @version October 2018
  */
 public interface UnaryPredicate<T> {
-    public boolean test(T object);
+    public boolean test(T object) throws IndexingError;
 }
 

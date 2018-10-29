@@ -12,7 +12,7 @@ package unaryPredicate;
  * @version October 2018
  */
 
-public class IsEven implements UnaryPredicate<Integer> {
+public class IsEven extends CountingUnaryPredicate<Integer> {
 
     /**
      * Test whether a number is even.
@@ -24,4 +24,11 @@ public class IsEven implements UnaryPredicate<Integer> {
     public boolean test(Integer n) {
         return n % 2 == 0;
     }
+
+    /**
+     *  Count how much elements satisfy test method
+     *
+     * @param array An array of objects of the type tested by this predicate's test
+     * @return  number of elements satisfied the test method
+     */
 }
