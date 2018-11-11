@@ -94,8 +94,7 @@ public interface Timer {
                     time = time.plus(timer.time());
                 }
                 time = time.dividedBy(getRunSetSize());
-                String timeString = time.toString().substring(2).replaceFirst("S", " seconds");
-                System.out.println(getTimer(0).getClass() + " took " + timeString + " for a task of size " + formatter.format(counter * power));
+                System.out.println(formatter.format(counter*power) + "\t" + time.toString().substring(2).replaceFirst("S",""));
                 if (counter * power >= getMaximumTaskSize()) {
                     System.out.println("Maximum task size, " + getMaximumTaskSize() + ", reached. Ending timing sequence.");
                     return;

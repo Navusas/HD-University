@@ -2,7 +2,7 @@ package arraySorter;
 
 import timer.Timer;
 
-public abstract class BubbleSortTimer<T extends Comparable<? super T>> extends BubbleSort<T> implements Timer {
+public abstract class SelectionSortTimer<T extends Comparable<? super T>> extends SelectionSort<T> implements Timer {
 
     private T[] array; // this is the array that will be sorted
 

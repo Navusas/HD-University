@@ -16,11 +16,17 @@ public class QuickSort<T extends Comparable<? super T>> implements ArraySort<T> 
         if (array == null || array.length == 0) {
             throw new IndexOutOfBoundsException("Array haven't been initialized");
         }
-        this.array = array;
         length = array.length;
-        quickSort(0, length - 1);
+        quickSort(0, length - 1); // recursively quick sort the array
         return array;
     }
+
+    /**
+     * Recursive Quick Sort method to sort the array using pivot as middle element
+     *
+     * @param lowerIndex first index to find bigger value then pivot
+     * @param higherIndex last index to find lower value then pivot
+     */
     private void quickSort(int lowerIndex, int higherIndex) {
 
         int i = lowerIndex;
@@ -55,6 +61,12 @@ public class QuickSort<T extends Comparable<? super T>> implements ArraySort<T> 
             quickSort(i, higherIndex);
     }
 
+    /**
+     * Changes to values within array at given indexes as parameters
+     *
+     * @param i first element to swap
+     * @param j second element to swap
+     */
     private void exchangeNumbers(int i, int j) {
         T temp = array[i];
         array[i] = array[j];

@@ -80,7 +80,7 @@ abstract class ArraySortTest<T extends Comparable<? super T>> {
     }
 
     @Test
-    void testSortedMillion() { testSorted(1000000);}
+    void testSorted10Thousands() { testSorted(100000);}
 
     @Test
     void testContentsNegativeIndex() {
