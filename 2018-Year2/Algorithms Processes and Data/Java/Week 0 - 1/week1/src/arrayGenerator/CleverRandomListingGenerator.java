@@ -1,6 +1,7 @@
 package arrayGenerator;
 
 
+
 /**
  * Uses a more efficient algorithm to randomise the array, a variant of the Fisher-Yates shuffle
  *
@@ -12,7 +13,7 @@ public class CleverRandomListingGenerator extends RandomListingGenerator {
     /**
      * Constructor
      */
-    public CleverRandomListingGenerator(int size) {
+    public CleverRandomListingGenerator(int size)  {
         super(size);
     }
 

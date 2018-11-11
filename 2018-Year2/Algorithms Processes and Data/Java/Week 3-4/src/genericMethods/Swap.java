@@ -6,9 +6,9 @@ import org.jetbrains.annotations.Contract;
 /**
  *  Swaps the objects into generic objects array at positions with given indexes
  *
- * @author          Domantas Giedraitis (student id: u1757704 )
+ * @author          Domantas Giedraitis (student id: u1757704)
  * @version         1
- * @since           2018-10-24
+ * @since           24/10/2018
  */
 
 public class Swap {

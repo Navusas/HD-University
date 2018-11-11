@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d91276e2-a22c-4565-a40f-8f9f35ff1029" name="Default" comment="" />
+    <list default="true" id="d91276e2-a22c-4565-a40f-8f9f35ff1029" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CompareTimers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/CleverRandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/CleverRandomListingGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/RandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/RandomListingGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SimpleRandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SimpleRandomListingGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SortedListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SortedListingGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcherTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcherTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/IndexingError.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/IndexingError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/SimpleSearcherTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/SimpleSearcherTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/timer/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/timer/Timer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/test/week1/searcher/SearcherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/test/week1/searcher/SearcherTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/CleverRandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/CleverRandomListingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/RandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/RandomListingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SimpleRandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SimpleRandomListingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SortedListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SortedListingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/CleverSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/CleverSearcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/IndexingError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/IndexingError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/tests/searcher/SearcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/tests/searcher/SearcherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CleverSearcherTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CleverSearcherTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/SimpleSearcherTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/SimpleSearcherTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/timer/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/timer/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3/unaryPredicate/isMonotonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week3/unaryPredicate/isMonotonicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericMethods/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/genericMethods/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unaryPredicate/isMonotonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unaryPredicate/isMonotonic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/genericMethods/SwapTestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/genericMethods/SwapTestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unaryPredicate/isMonotonicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unaryPredicate/isMonotonicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week3.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,30 +111,37 @@
     <session id="489922739">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6241" />
+          <entry key="java" value="6311" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6241" />
+          <entry key="JAVA" value="6311" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="24" />
+          <entry key="genericMethods" value="1" />
+          <entry key="html" value="1" />
+          <entry key="java" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="37" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -111,59 +151,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/unaryPredicate/CountingUnaryPredicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="306">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/unaryPredicate/isMonotonic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="29" selection-start-column="2" selection-end-line="49" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/unaryPredicate/UnaryPredicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/unaryPredicate/isMonotonic.java">
+        <entry file="file://$USER_HOME$/Downloads/Max (1).java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+            <state relative-caret-position="459">
+              <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isPrimeTest.java">
+        <entry file="file://$PROJECT_DIR$/tests/genericMethods/SwapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-              <folding>
-                <element signature="e#524#525#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1564">
+              <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/otherObjects/ArrayGenerator.java">
+        <entry file="file://$PROJECT_DIR$/src/otherObjects/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/unaryPredicate/UnaryPredicateCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/IsOddTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -171,17 +205,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/unaryPredicate/IsEven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="238">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isEvenSatisfiedTest.java">
+        <entry file="file://$PROJECT_DIR$/tests/genericMethods/SwapTestHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+            <state relative-caret-position="238">
+              <caret line="18" column="7" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,27 +226,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isMonotonicTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-              <folding>
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="476">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isPalindromeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/genericMethods/Swap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="476">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -226,8 +252,8 @@
         <option value="Interface" />
         <option value="TestNG Test Class" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -247,14 +273,11 @@
         <option value="$PROJECT_DIR$/src/otherObjects/Robot.java" />
         <option value="$PROJECT_DIR$/src/unaryPredicate/IsOdd.java" />
         <option value="$PROJECT_DIR$/src/Exceptions/IndexingError.java" />
-        <option value="$PROJECT_DIR$/src/unaryPredicate/UnaryPredicate.java" />
         <option value="$PROJECT_DIR$/src/unaryPredicate/UnaryPredicateCount.java" />
         <option value="$PROJECT_DIR$/src/genericMethods/Equals.java" />
-        <option value="$PROJECT_DIR$/src/genericMethods/Swap.java" />
         <option value="$PROJECT_DIR$/tests/genericMethods/MaxValueTest.java" />
         <option value="$PROJECT_DIR$/tests/genericMethods/SwapTest.java" />
         <option value="$PROJECT_DIR$/src/genericMethods/MaxValue.java" />
-        <option value="$PROJECT_DIR$/tests/genericMethods/SwapTestHandler.java" />
         <option value="$PROJECT_DIR$/tests/genericMethods/EqualsTest.java" />
         <option value="$PROJECT_DIR$/tests/unaryPredicate/isPrimeTest.java" />
         <option value="$PROJECT_DIR$/src/unaryPredicate/isPrime.java" />
@@ -262,14 +285,19 @@
         <option value="$PROJECT_DIR$/src/unaryPredicate/T.java" />
         <option value="$PROJECT_DIR$/tests/unaryPredicate/IsOddTest.java" />
         <option value="$PROJECT_DIR$/src/unaryPredicate/isPalindrome.java" />
-        <option value="$PROJECT_DIR$/tests/unaryPredicate/isMonotonicTest.java" />
         <option value="$PROJECT_DIR$/src/otherObjects/RandomArrayGenerator.java" />
         <option value="$PROJECT_DIR$/tests/unaryPredicate/IsEvenTest.java" />
         <option value="$PROJECT_DIR$/src/otherObjects/ArrayGenerator.java" />
         <option value="$PROJECT_DIR$/src/unaryPredicate/CountingUnaryPredicate.java" />
         <option value="$PROJECT_DIR$/src/unaryPredicate/IsEven.java" />
         <option value="$PROJECT_DIR$/tests/unaryPredicate/isEvenSatisfiedTest.java" />
+        <option value="$PROJECT_DIR$/src/genericMethods/Swap.java" />
+        <option value="$PROJECT_DIR$/timer/genericMethods/SwapTimer.java" />
+        <option value="$PROJECT_DIR$/timer/timer/Timer.java" />
+        <option value="$PROJECT_DIR$/src/unaryPredicate/UnaryPredicate.java" />
         <option value="$PROJECT_DIR$/src/unaryPredicate/isMonotonic.java" />
+        <option value="$PROJECT_DIR$/tests/unaryPredicate/isMonotonicTest.java" />
+        <option value="$PROJECT_DIR$/tests/genericMethods/SwapTestHandler.java" />
       </list>
     </option>
   </component>
@@ -280,8 +308,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="567" />
-    <option name="y" value="208" />
+    <option name="x" value="840" />
+    <option name="y" value="151" />
     <option name="width" value="1033" />
     <option name="height" value="1047" />
   </component>
@@ -311,6 +339,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -368,7 +397,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -378,14 +406,14 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540819819208" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541879358020" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week5" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -394,18 +422,19 @@
       <recent name="unaryPredicate" />
       <recent name="genericMethods" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Hugh\IdeaProjects\week3\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="unaryPredicate" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="unaryPredicate" />
       <recent name="genericMethods" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="unaryPredicate" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub Repositories\HD-University\2018-Year2\Algorithms Processes and Data\Java\Week 3-4" />
+      <recent name="C:\Users\Hugh\IdeaProjects\week3\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -420,7 +449,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.isEvenSatisfiedTest">
+  <component name="RunManager" selected="JUnit.SwapTest">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -464,6 +493,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="unaryPredicate" />
       <option name="MAIN_CLASS_NAME" value="unaryPredicate.IsOddTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="genericMethods" />
+      <option name="MAIN_CLASS_NAME" value="genericMethods.SwapTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -520,21 +564,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="week3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unaryPredicate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="unaryPredicate" />
-      <option name="MAIN_CLASS_NAME" value="unaryPredicate.isPrimeTest" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <option name="filePath" />
       <option name="vmParameters" />
@@ -578,19 +607,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.isPrimeTest" />
       <item itemvalue="JUnit.isPalindromeTest" />
       <item itemvalue="JUnit.IsOddTest" />
       <item itemvalue="JUnit.isMonotonicTest" />
       <item itemvalue="JUnit.isEvenSatisfiedTest" />
+      <item itemvalue="JUnit.SwapTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SwapTest" />
         <item itemvalue="JUnit.isEvenSatisfiedTest" />
         <item itemvalue="JUnit.isMonotonicTest" />
         <item itemvalue="JUnit.IsOddTest" />
         <item itemvalue="JUnit.isPalindromeTest" />
-        <item itemvalue="JUnit.isPrimeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -613,13 +642,13 @@
       <workItem from="1540406250248" duration="12248000" />
       <workItem from="1540418707735" duration="139000" />
       <workItem from="1540813147299" duration="7150000" />
+      <workItem from="1541192799888" duration="35000" />
+      <workItem from="1541862187438" duration="3108000" />
+      <workItem from="1541956337135" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="isEvenSatisfiedTest - 2018.10.29 at 13h 20m 53s.xml">
-      <configuration name="isEvenSatisfiedTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="isEvenSatisfiedTest - 2018.10.29 at 13h 21m 25s.xml">
       <configuration name="isEvenSatisfiedTest" configurationId="JUnit" />
     </history-entry>
@@ -647,9 +676,12 @@
     <history-entry file="isEvenSatisfiedTest - 2018.10.29 at 13h 30m 22s.xml">
       <configuration name="isEvenSatisfiedTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SwapTest - 2018.11.10 at 19h 30m 49s.xml">
+      <configuration name="SwapTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34310000" />
+    <option name="totallyTimeSpent" value="37479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -669,16 +701,16 @@
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Nl-Palette" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.16204691" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3261105" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.2881907" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -720,13 +752,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/genericMethods/EqualsTest.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/otherObjects/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exceptions/IndexingError.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -771,20 +796,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unaryPredicate/UnaryPredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericMethods/Swap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/genericMethods/MaxValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -796,20 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="42" column="63" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/genericMethods/SwapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-894">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/genericMethods/SwapTestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -834,9 +831,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/otherObjects/ArrayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unaryPredicate/UnaryPredicateCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/IsOddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isEvenSatisfiedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isPalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
+        <state relative-caret-position="68">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -848,31 +879,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isMonotonicTest.java">
+    <entry file="file://$USER_HOME$/Downloads/MaxTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-          <folding>
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/IsOddTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/otherObjects/ArrayGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="2091">
+          <caret line="130" column="52" lean-forward="true" selection-start-line="130" selection-start-column="52" selection-end-line="130" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -886,41 +896,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unaryPredicate/UnaryPredicateCount.java">
+    <entry file="file://$PROJECT_DIR$/timer/genericMethods" />
+    <entry file="file://$PROJECT_DIR$/timer/Timer.html" />
+    <entry file="file://$PROJECT_DIR$/timer/timer/Timer.java" />
+    <entry file="file://$PROJECT_DIR$/timer/genericMethods/SwapTimer.java" />
+    <entry file="file://$PROJECT_DIR$/src/unaryPredicate/CountingUnaryPredicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unaryPredicate/CountingUnaryPredicate.java">
+    <entry file="file://$PROJECT_DIR$/src/unaryPredicate/isMonotonic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="459">
+          <caret line="27" column="29" selection-start-column="2" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unaryPredicate/UnaryPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/genericMethods/SwapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/otherObjects/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unaryPredicate/IsEven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isEvenSatisfiedTest.java">
+    <entry file="file://$PROJECT_DIR$/tests/genericMethods/SwapTestHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="238">
+          <caret line="18" column="7" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unaryPredicate/isMonotonic.java">
+    <entry file="file://$PROJECT_DIR$/tests/unaryPredicate/isMonotonicTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        <state relative-caret-position="476">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/genericMethods/Swap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Max (1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
         </state>
       </provider>
     </entry>

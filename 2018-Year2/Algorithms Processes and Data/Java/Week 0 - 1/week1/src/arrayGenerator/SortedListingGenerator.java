@@ -1,5 +1,7 @@
 package arrayGenerator;
 
+import searcher.IndexingError;
+
 /**
  * A simple array generator, that generates a sorted array [0,1,2,..,n]
  *
@@ -17,8 +19,10 @@ public class SortedListingGenerator implements ListingGenerator {
      *
      * @param size the size of the array to be created
      */
-    SortedListingGenerator(int size)
-    {
+    SortedListingGenerator(int size) {
+        if(size < 1) {
+            throw new IndexOutOfBoundsException("Array size must be more then 0!");
+        }
         array = new int[size]; // create the array
         for (int index = 0; index < array.length; index++) {  // populate it
             array[index] = index;

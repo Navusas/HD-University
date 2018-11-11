@@ -2,6 +2,8 @@ package genericMethods;
 
 import Exceptions.IndexingError;
 import otherObjects.ArrayGenerator;
+
+import static genericMethods.Swap.swapPosition;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
@@ -30,11 +32,10 @@ public abstract class SwapTestHandler extends ArrayGenerator {
          /*
          * Swaps the element in array using Swap.java class*
          *
-         * @see Swap.java
          **/
-        Swap.swapPosition(original,index1,index2);
+        swapPosition(original,index1,index2);
 
         // Using JUnit5 test if the elements been swapped comparing to original object itself
-        assertArrayEquals(Swap.swapPosition(object,index1,index2),original);
+        assertArrayEquals(swapPosition(object,index1,index2),original);
     }
 }

@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cce9072a-9b37-4257-9e99-cbb2c3cd585a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CompareTimers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraySorter/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/CleverRandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/CleverRandomListingGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/RandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/RandomListingGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SimpleRandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SimpleRandomListingGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SortedListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SortedListingGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcherTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcherTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/IndexingError.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/IndexingError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/SimpleSearcherTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/SimpleSearcherTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/timer/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/timer/Timer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/test/week1/searcher/SearcherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/test/week1/searcher/SearcherTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/CleverRandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/CleverRandomListingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/RandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/RandomListingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SimpleRandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SimpleRandomListingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SortedListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SortedListingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/CleverSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/CleverSearcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/IndexingError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/IndexingError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/tests/searcher/SearcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/tests/searcher/SearcherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CleverSearcherTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CleverSearcherTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/SimpleSearcherTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/SimpleSearcherTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/timer/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/timer/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-4/out/production/week3/unaryPredicate/isMonotonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-4/out/test/week3/unaryPredicate/isMonotonicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-4/src/genericMethods/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/src/genericMethods/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-4/src/unaryPredicate/isMonotonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/src/unaryPredicate/isMonotonic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-4/tests/genericMethods/SwapTestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/tests/genericMethods/SwapTestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-4/tests/unaryPredicate/isMonotonicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/tests/unaryPredicate/isMonotonicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-4/week3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/week3.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1235418504">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="837" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="837" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="week5" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/arraySorter/BubbleSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arraySorter/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arraySorter/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/arraySorter/ArraySortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-418">
+              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/arrayGenerator/CharacterArrayGenerator.java" />
+        <option value="$PROJECT_DIR$/src/arrayGenerator/ScopedArrayGenerator.java" />
+        <option value="$PROJECT_DIR$/tests/arrayGenerator/ScopedArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/arrayGenerator/IntegerArrayGenerator.java" />
+        <option value="$PROJECT_DIR$/src/arraySorter/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="776" />
+    <option name="y" value="33" />
+    <option name="width" value="1101" />
+    <option name="height" value="1009" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arrayGenerator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arraySorter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scope" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stringSearcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="arrayGenerator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="arraySorter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="stringSearcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="timer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="timer" type="462c0819:PsiDirectoryNode" />
+              <item name="stringSearcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541962593778" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="arraySorter" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="timer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hugh\IdeaProjects\week5\timer" />
+      <recent name="C:\Users\Hugh\IdeaProjects\week5\tests" />
+      <recent name="C:\Users\Hugh\IdeaProjects\week5\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraySorter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraySorter" />
+      <option name="MAIN_CLASS_NAME" value="arraySorter.SelectionSortTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SelectionSortTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cce9072a-9b37-4257-9e99-cbb2c3cd585a" name="Default" comment="" />
+      <created>1539877722307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539877722307</updated>
+      <workItem from="1541956365907" duration="4402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SelectionSortTest - 2018.11.11 at 18h 49m 28s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2018.11.11 at 18h 49m 52s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2018.11.11 at 18h 50m 23s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2018.11.11 at 18h 50m 38s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4402000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" weight="0.3299539" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24976958" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="1" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/CharacterSelectionSortTest.java" />
+    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/ArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/CharacterArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/IntegerArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringSearcher/StringSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringSearcher/SequentialStringSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scope/CharacterScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timer/stringSearcher/SequentialSearcherSubstringSizeTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraySorter/ArraySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/ArrayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/ScopedArrayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/IntegerArrayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/CharacterArrayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="83" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/ScopedArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="68" column="144" selection-start-line="68" selection-start-column="144" selection-end-line="68" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scope/IntegerScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/ArraySortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraySorter/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraySorter/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

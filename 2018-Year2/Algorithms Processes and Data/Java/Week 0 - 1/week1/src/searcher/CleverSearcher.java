@@ -3,26 +3,44 @@ package searcher;
 import java.util.Arrays;
 
 /**
- * Created by u1757704 on 08/10/2018.
+ * Better approach of finding element in given array at given position.
+ * Takes array as argument and temporary divides it into 2
+ * small and big arrays, where small array elements are being swapped if bigger value is found
+ *
+ * @author Domantas Giedraitis (student id: u1757704 )
+ * @version 1
+ * @since 2018-10-08
  */
 public class CleverSearcher extends Searcher{
 
-    /*Constructor
-    * @param1 = array to be sorted
-    * @param2 = index to be find
-    * @return = sorted array */
+    /**
+     * Takes the integer array and finds the element in given index (k)
+     *
+     * @param array to be sorted
+     * @param k index of element to be find
+     */
     CleverSearcher (int [] array, int k) {super(array,k);}
 
-    /*Overrides findElement method from abstract class 'Searcher'*/
+    /**
+     * Overrides findElement method from abstract class 'Searcher'
+     *
+     * Get array and element to look for. Check if given index is not out of bounds
+     * Create smaller array of size [given index], sorts it ASC and calls function
+     * findLargestNumberInArray to find element
+     *
+     * @return the element which we looking for
+     * @throws IndexingError if given index is not within specifications
+     */
     @Override
     public int findElement() throws IndexingError {
         int[] array = getArray(); /*Get randomised array*/
+
         int k = getIndex(); /*Get required element to look for*/
-        if(k <= 0 || k > array.length) { // throw indexing error in case requested index is not within specs
+
+        if(k <= 0 || k > array.length) { // throw indexing error in case requested index is not within specifications
             throw new IndexingError();
         }
-        //Arrays.sort(array);
-        //return array[array.length-k];
+
         //initialize small array with size of k (given size)
         int[] smallArray = Arrays.copyOfRange(array,0,k);
 
@@ -30,17 +48,19 @@ public class CleverSearcher extends Searcher{
         Arrays.sort(smallArray);
 
         /*Call function to find the k largest element from back of array */
-        return findLargestNumbersArray(smallArray,array,k);
+        return sortSmallArray(smallArray,array,k);
     }
 
-    /*Finds the K largest number in array from back.
-    * @param 1: Smaller array which 1st element will be element we are looking for
-    * @param 2: Bigger array, where we will look for bigger elements then in our small array
-    * @param 3: index of where we cutted the small and big arrays
-    *
-    * @return: First element of smaller array , which is the k largest element we are looking for
-    * */
-    public static int findLargestNumbersArray(int[] smallArray, int[] bigArray, int index) {
+    /**
+     * Finds the K largest number in array
+     *
+     * @param smallArray  Array of size [K] which 1st element will be element to return
+     * @param bigArray  Given array of elements. Used to compare the elements with smallArray
+     * @param index  Required index to find element in array
+     * @return  First element of smallArray which is the k largest element
+     */
+
+    public static int sortSmallArray(int[] smallArray, int[] bigArray, int index) {
 
         /*Start looking at big array from position where arrays been divided*/
         for(int m = index; m < bigArray.length; m++)
@@ -60,12 +80,5 @@ public class CleverSearcher extends Searcher{
             }
         }
         return smallArray[0]; // return the k largest element from BIGGEST elements array
-    }
-
-    /*Used for testing to output array into console*/
-    public static void arrayToString(int[] array){
-        for(int value: array) {
-            System.out.print(value + " " );
-        }
     }
 }

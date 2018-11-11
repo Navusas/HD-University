@@ -6,13 +6,17 @@ package searcher;
  * @author Hugh Osborne
  * @version September 2016
  **/
-class IndexingError extends Exception
+public class IndexingError extends Exception
 {
     /**
      * Used to report an index out of bounds error
      **/
-    IndexingError() {
+    public IndexingError() {
         super("Index out of bounds");
+    }
+
+    public IndexingError(String message) {
+        super(message);
     }
 }
 

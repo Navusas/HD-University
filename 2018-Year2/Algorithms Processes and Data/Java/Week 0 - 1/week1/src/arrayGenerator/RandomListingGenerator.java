@@ -1,5 +1,7 @@
 package arrayGenerator;
 
+import searcher.IndexingError;
+
 import java.util.Random;
 
 /**

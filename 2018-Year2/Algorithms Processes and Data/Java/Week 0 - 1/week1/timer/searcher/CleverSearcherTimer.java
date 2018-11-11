@@ -1,22 +1,26 @@
 package searcher;
 
-/*
-  A timer implementation for simple searchers that times the findElement method
-
-  @author Hugh Osborne
- * @version September 2018
- */
-
 import arrayGenerator.ArrayGenerator;
 import arrayGenerator.CleverRandomListingGenerator;
 import timer.Timer;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+/**
+ * A timer implementation for CleveRSearcher that times the findElement method
+ *
+ * @author Domantas Giedraitis (student id: u1757704 )
+ * @version 1
+ * @since 2018-10-08
+ */
 
 public class CleverSearcherTimer extends CleverSearcher implements Timer {
 
     // All timings will be done with an index of 5
     private final static int K = 5;
 
-    private CleverSearcherTimer(int[] array) {
+    CleverSearcherTimer(int[] array) {
         super(array, K);
     }
 
@@ -45,6 +49,10 @@ public class CleverSearcherTimer extends CleverSearcher implements Timer {
         return 10;
     }
 
+    /**
+     * Setting maximum task (array) size
+     * @return maximum task size
+     */
     @Override
     public int getMaximumTaskSize() {
         return 100000000;
@@ -56,7 +64,7 @@ public class CleverSearcherTimer extends CleverSearcher implements Timer {
         return new CleverSearcherTimer(generator.getArray());
     }
 
-    public static void main(String[] args) throws IndexingError {
+    public static void main(String[] args) {
         CleverSearcherTimer timer = new CleverSearcherTimer(null);
         timer.timingSequence();
     }

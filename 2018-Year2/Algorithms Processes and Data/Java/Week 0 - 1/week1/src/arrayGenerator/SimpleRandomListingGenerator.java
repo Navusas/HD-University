@@ -1,5 +1,7 @@
 package arrayGenerator;
 
+import searcher.IndexingError;
+
 import java.util.Arrays;
 
 /**
@@ -15,7 +17,7 @@ public class SimpleRandomListingGenerator extends RandomListingGenerator {
     /**
      * Constructor
      */
-    SimpleRandomListingGenerator(int size) {
+    SimpleRandomListingGenerator(int size)  {
         super(size);
     }
 

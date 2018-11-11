@@ -16,7 +16,7 @@ public class SimpleSearcherTimer extends SimpleSearcher implements Timer {
     // All timings will be done with an index of 5
     private final static int K = 5;
 
-    private SimpleSearcherTimer(int[] array) {
+    SimpleSearcherTimer(int[] array) {
         super(array, K);
     }
 
@@ -56,7 +56,7 @@ public class SimpleSearcherTimer extends SimpleSearcher implements Timer {
         return new SimpleSearcherTimer(generator.getArray());
     }
 
-    public static void main(String[] args) throws IndexingError {
+    public static void main(String[] args) {
         SimpleSearcherTimer timer = new SimpleSearcherTimer(null);
         timer.timingSequence();
     }

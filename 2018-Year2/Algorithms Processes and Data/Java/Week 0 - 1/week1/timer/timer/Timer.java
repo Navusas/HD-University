@@ -3,6 +3,8 @@ package timer;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * We are interested in how long our implemented methods take to execute. This
@@ -92,6 +94,34 @@ public interface Timer {
                     System.out.println("Time limit of " + getMaximumRuntime() + " seconds reached.  Ending timing sequence.");
                     return;
                 }
+            }
+            counter = 1;
+        }
+    }
+    default ArrayList timingSequenceToArray() {
+        NumberFormat formatter = new DecimalFormat("#,###");
+        int counter = getMinimumTaskSize();
+        int power = 1;
+        ArrayList<Double> times = new ArrayList<>();
+        while (counter >= 10) {
+            counter = counter / 10;
+            power = power * 10;
+        }
+        for (int i = 0;; power = power * 10) {
+            for (; counter < 10; counter++) {
+                Timer timer = getTimer(counter * power);
+                Duration time = timer.time();
+                String timeString = time.toString().substring(2).replaceFirst("S", "");
+                times.add(Double.parseDouble(timeString));
+                if (counter * power >= getMaximumTaskSize()) {
+                    System.out.println("Maximum task size, " + getMaximumTaskSize() + ", reached. Ending timing sequence.");
+                    return times;
+                }
+                if (time.getSeconds() >= getMaximumRuntime()) {
+                    System.out.println("Time limit of " + getMaximumRuntime() + " seconds reached.  Ending timing sequence.");
+                    return times;
+                }
+                i++;
             }
             counter = 1;
         }

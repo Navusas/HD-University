@@ -5,6 +5,7 @@ import arrayGenerator.CleverRandomListingGenerator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 /**
  * @author Hugh Osborne
@@ -85,12 +86,34 @@ abstract class SearcherTest {
         testSearcher(100000,9999);
     }
     @Test
-    void test100000thIn900000() throws IndexingError {
-        testSearcher(9999999,100000);
+    void test88888thIn90000() throws IndexingError {
+        testSearcher(90000,88888);
     }
     @Test
     void test10thIn10() throws IndexingError {
         testSearcher(10,10);
+    }
+    @Test
+    void testNegativeIndex() {
+        assertThrows(IndexingError.class,() -> {
+           testSearcher(20,-5);
+        });
+    }
+    @Test
+    void testNegaticeArraySize()  {
+        assertThrows(IndexOutOfBoundsException.class,() -> {
+            testSearcher(-50,5);
+        });
+    }
+    @Test
+    void testIndexBiggerThenArray() {
+        assertThrows(IndexingError.class,() -> {
+            testSearcher(20,23);
+        });
+    }
+    @Test
+    void test99999900thIn100000000() throws IndexingError {
+        testSearcher(100000000,99999900);
     }
 
 }
