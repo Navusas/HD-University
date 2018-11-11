@@ -27,7 +27,7 @@ public abstract class SelectionSortTimer<T extends Comparable<? super T>> extend
 
     @Override
     public int getMaximumTaskSize() {
-        return 100000;}
+        return 50000;}
 
     @Override
     public int getRunSetSize() {
