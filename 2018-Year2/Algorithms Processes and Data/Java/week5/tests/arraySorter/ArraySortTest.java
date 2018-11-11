@@ -63,7 +63,12 @@ abstract class ArraySortTest<T extends Comparable<? super T>> {
     void testSortedOne() {
         testSorted(1);
     }
-
+    @Test
+    void testSortedNegativeIndex() {
+        assertThrows(NegativeArraySizeException.class,() -> {
+            testSorted(-10);
+        });
+    }
     @Test
     void testSortedTwelve() {
         testSorted(12);
@@ -74,6 +79,15 @@ abstract class ArraySortTest<T extends Comparable<? super T>> {
         testSorted(1000);
     }
 
+    @Test
+    void testSortedMillion() { testSorted(1000000);}
+
+    @Test
+    void testContentsNegativeIndex() {
+        assertThrows(NegativeArraySizeException.class,() -> {
+            testContents(-10);
+        });
+    }
     @Test
     void testContentsOne() {
         testContents(1);
@@ -88,4 +102,7 @@ abstract class ArraySortTest<T extends Comparable<? super T>> {
     void testContentsThousand() {
         testContents(1000);
     }
-}
+    @Test
+    void testContents100Thousands() { testContents(100000);}
+
+    }

@@ -2,41 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cce9072a-9b37-4257-9e99-cbb2c3cd585a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CompareTimers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraySorter/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/CleverRandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/CleverRandomListingGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/RandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/RandomListingGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SimpleRandomListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SimpleRandomListingGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SortedListingGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/arrayGenerator/SortedListingGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcherTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/CleverSearcherTimer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/IndexingError.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/IndexingError.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/SimpleSearcherTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/searcher/SimpleSearcherTimer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/timer/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/production/week1/timer/Timer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/out/test/week1/searcher/SearcherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/out/test/week1/searcher/SearcherTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/CleverRandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/CleverRandomListingGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/RandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/RandomListingGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SimpleRandomListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SimpleRandomListingGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SortedListingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/arrayGenerator/SortedListingGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/CleverSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/CleverSearcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/IndexingError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/src/searcher/IndexingError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/tests/searcher/SearcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/tests/searcher/SearcherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CleverSearcherTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/CleverSearcherTimer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/SimpleSearcherTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/searcher/SimpleSearcherTimer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/timer/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 0 - 1/week1/timer/timer/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3-4/out/production/week3/unaryPredicate/isMonotonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3-4/out/test/week3/unaryPredicate/isMonotonicTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3-4/src/genericMethods/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/src/genericMethods/Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3-4/src/unaryPredicate/isMonotonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/src/unaryPredicate/isMonotonic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3-4/tests/genericMethods/SwapTestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/tests/genericMethods/SwapTestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3-4/tests/unaryPredicate/isMonotonicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/tests/unaryPredicate/isMonotonicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3-4/week3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-4/week3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraySorter/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/arraySorter/CharacterQuickSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/arraySorter/CharacterSelectionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/arraySorter/IntegerQuickSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/arraySorter/IntegerSelectionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/arraySorter/QuickSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week5/arraySorter/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week5/arraySorter/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraySorter/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraySorter/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/arraySorter/ArraySortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/arraySorter/ArraySortTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,22 +30,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="837" />
+          <entry key="java" value="1770" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="837" />
+          <entry key="JAVA" value="1770" />
         </counts>
       </usages-collector>
     </session>
@@ -80,18 +55,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/arraySorter/BubbleSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,10 +65,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arraySorter/BubbleSort.java">
+        <entry file="file://$PROJECT_DIR$/tests/arraySorter/QuickSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="119">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/arraySorter/CharacterBubbleSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,17 +88,87 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arraySorter/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="238">
+              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arrayGenerator/CharacterArrayGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+              <folding>
+                <element signature="e#1348#1349#0" expanded="true" />
+                <element signature="e#1390#1391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/arraySorter/ArraySortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-418">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="325">
+              <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+              <folding>
+                <element signature="e#1946#1947#0" expanded="true" />
+                <element signature="e#1975#1976#0" expanded="true" />
+                <element signature="e#2016#2017#0" expanded="true" />
+                <element signature="e#2046#2047#0" expanded="true" />
+                <element signature="e#2161#2162#0" expanded="true" />
+                <element signature="e#2192#2193#0" expanded="true" />
+                <element signature="e#2235#2236#0" expanded="true" />
+                <element signature="e#2267#2268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/arraySorter/CharacterSelectionSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="33" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/arraySorter/CharacterQuickSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/arraySorter/IntegerQuickSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arraySorter/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -133,8 +178,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -148,8 +193,15 @@
         <option value="$PROJECT_DIR$/src/arrayGenerator/ScopedArrayGenerator.java" />
         <option value="$PROJECT_DIR$/tests/arrayGenerator/ScopedArrayGeneratorTest.java" />
         <option value="$PROJECT_DIR$/src/arrayGenerator/IntegerArrayGenerator.java" />
-        <option value="$PROJECT_DIR$/src/arraySorter/SelectionSort.java" />
         <option value="$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java" />
+        <option value="$PROJECT_DIR$/src/arraySorter/QuickSort.java" />
+        <option value="$PROJECT_DIR$/tests/arraySorter/CharacterSelectionSortTest.java" />
+        <option value="$PROJECT_DIR$/tests/arraySorter/IntegerSelectionSortTest.java" />
+        <option value="$PROJECT_DIR$/src/arraySorter/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/tests/arraySorter/QuickSortTest.java" />
+        <option value="$PROJECT_DIR$/tests/arraySorter/CharacterQuickSortTest.java" />
+        <option value="$PROJECT_DIR$/tests/arraySorter/IntegerQuickSortTest.java" />
+        <option value="$PROJECT_DIR$/tests/arraySorter/ArraySortTest.java" />
       </list>
     </option>
   </component>
@@ -159,7 +211,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="776" />
     <option name="y" value="33" />
     <option name="width" value="1101" />
@@ -255,9 +307,9 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541962593778" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541967577069" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="arraySorter.ArraySortTest" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -265,6 +317,8 @@
       <recent name="arraySorter" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
+      <recent name="arraySorter.ArraySortTest" />
+      <recent name="arraySorter.ArraySort" />
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -288,9 +342,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SelectionSortTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterBubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraySorter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraySorter" />
+      <option name="MAIN_CLASS_NAME" value="arraySorter.CharacterBubbleSortTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterQuickSortTest and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraySorter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraySorter" />
+      <option name="MAIN_CLASS_NAME" value="arraySorter.QuickSortTest" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <patterns>
+        <pattern testClass="arraySorter.CharacterQuickSortTest" />
+        <pattern testClass="arraySorter.IntegerQuickSortTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterSelectionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraySorter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraySorter" />
+      <option name="MAIN_CLASS_NAME" value="arraySorter.CharacterSelectionSortTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerBubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraySorter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraySorter" />
+      <option name="MAIN_CLASS_NAME" value="arraySorter.IntegerBubbleSortTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -324,9 +443,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.SelectionSortTest" />
+      <item itemvalue="JUnit.CharacterBubbleSortTest" />
+      <item itemvalue="JUnit.IntegerBubbleSortTest" />
+      <item itemvalue="JUnit.CharacterSelectionSortTest" />
+      <item itemvalue="JUnit.CharacterQuickSortTest and 1 more" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SelectionSortTest" />
+        <item itemvalue="JUnit.CharacterQuickSortTest and 1 more" />
+        <item itemvalue="JUnit.CharacterQuickSortTest and 1 more" />
+        <item itemvalue="JUnit.CharacterSelectionSortTest" />
+        <item itemvalue="JUnit.IntegerBubbleSortTest" />
       </list>
     </recent_temporary>
   </component>
@@ -340,32 +470,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539877722307</updated>
-      <workItem from="1541956365907" duration="4402000" />
+      <workItem from="1541956365907" duration="8299000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SelectionSortTest - 2018.11.11 at 18h 49m 28s.xml">
-      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    <history-entry file="CharacterSelectionSortTest - 2018.11.11 at 20h 02m 27s.xml">
+      <configuration name="CharacterSelectionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2018.11.11 at 18h 49m 52s.xml">
-      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 07m 42s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2018.11.11 at 18h 50m 23s.xml">
-      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 09m 35s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2018.11.11 at 18h 50m 38s.xml">
-      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 11m 13s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 13m 36s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 14m 07s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 16m 05s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 16m 10s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 16m 12s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterQuickSortTest_and_1_more - 2018.11.11 at 20h 16m 20s.xml">
+      <configuration name="CharacterQuickSortTest and 1 more" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4402000" />
+    <option name="totallyTimeSpent" value="8299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,58 +521,29 @@
       <window_info id="Learn" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" weight="0.3299539" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32963374" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.4452871" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Learn" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24976958" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection Results" order="1" weight="0.32963374" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32963374" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32963374" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -433,14 +552,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests/arraySorter/CharacterSelectionSortTest.java" />
-    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/ArrayGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/CharacterArrayGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -483,20 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arraySorter/ArraySort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/ArrayGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/arrayGenerator/ScopedArrayGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -508,13 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/CharacterArrayGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="83" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
         </state>
       </provider>
     </entry>
@@ -532,24 +622,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/arraySorter/ArraySortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/arraySorter/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
+        <state relative-caret-position="34">
           <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arraySorter/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/ArrayGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="160">
+          <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/ArrayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraySorter/ArraySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/IntegerBubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/IntegerSelectionSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraySorter/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -560,12 +688,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/arraySorter/SelectionSortTest.java">
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/QuickSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/CharacterBubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/CharacterSelectionSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/CharacterQuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/IntegerQuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraySorter/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/CharacterArrayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arraySorter/ArraySortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+          <folding>
+            <element signature="e#1946#1947#0" expanded="true" />
+            <element signature="e#1975#1976#0" expanded="true" />
+            <element signature="e#2016#2017#0" expanded="true" />
+            <element signature="e#2046#2047#0" expanded="true" />
+            <element signature="e#2161#2162#0" expanded="true" />
+            <element signature="e#2192#2193#0" expanded="true" />
+            <element signature="e#2235#2236#0" expanded="true" />
+            <element signature="e#2267#2268#0" expanded="true" />
           </folding>
         </state>
       </provider>

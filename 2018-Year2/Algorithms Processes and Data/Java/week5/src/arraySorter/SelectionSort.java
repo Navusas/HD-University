@@ -20,7 +20,6 @@ public class SelectionSort<T extends Comparable<? super T>> implements ArraySort
                 T swapElement = array[i];
                 array[i] = array[minimum];
                 array[minimum] = swapElement;
-                System.out.println(minimum);
             }
         }
         return array;
