@@ -13,7 +13,7 @@ public class IsOdd implements UnaryPredicate<Integer> {
      *  Check and return true if given integer is odd
      *  return false otherwise
      *
-     * @param number    integer to check its oddness / evenness
+     * @param number integer to check its oddness / evenness
      * @return  true if number is odd
      */
     @Override
