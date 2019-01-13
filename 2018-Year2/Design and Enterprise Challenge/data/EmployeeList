@@ -1,0 +1,38 @@
+[
+  {
+    "Password":"123",
+    "Username":"Loader",
+    "DateResigned": "0",
+    "DateStarted": "0",
+    "Warehouse": "0",
+    "Privileges": 2,
+    "WorkGroup": 2,
+    "Surname": "Bill",
+    "Name": "Tony",
+    "employeeID": 1
+  },
+  {
+      "Password":"123",
+      "Username":"Picker",
+      "DateResigned": "0",
+      "DateStarted": "0",
+      "Warehouse": "0",
+      "Privileges": 0,
+      "WorkGroup": 0,
+      "Surname": "Bill Junior",
+      "Name": "Tony",
+      "employeeID": 2
+    },
+      {
+          "Password":"123",
+          "Username":"Supervisor",
+          "DateResigned": "0",
+          "DateStarted": "0",
+          "Warehouse": "0",
+          "Privileges": 3,
+          "WorkGroup": 3,
+          "Surname": "Gates",
+          "Name": "Tony",
+          "employeeID": 3
+        }
+]

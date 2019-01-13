@@ -2346,9 +2346,6 @@
     "id": 101
   },
   {
-    "id": 102,
-    "Question": "What date was the Lithuania name first mentioned in the world ? ",
-    "Level": 2,
     "Answers": [
       {
         "Answer": "1009",
@@ -2364,6 +2361,32 @@
       },
       {
         "Answer": "100 BC",
+        "Rating": 0
+      }
+    ],
+    "Question": "What date was the Lithuania name first mentioned in the world ? ",
+    "Level": 2,
+    "id": 102
+  },
+  {
+    "id": 103,
+    "Question": "Who knows AhmeD?",
+    "Level": 2,
+    "Answers": [
+      {
+        "Answer": "No",
+        "Rating": 90
+      },
+      {
+        "Answer": "Yes",
+        "Rating": 5
+      },
+      {
+        "Answer": "Yes",
+        "Rating": 5
+      },
+      {
+        "Answer": "No",
         "Rating": 0
       }
     ]
