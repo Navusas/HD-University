@@ -48,11 +48,11 @@ var activeTableTab = "activeTableTab";
 </div>
 <div class="subNav">
 <ul class="navList">
-<li><a href="../arrayGenerator/IntegerArrayGeneratorTest.html" title="class in arrayGenerator"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
-<li><a href="../arrayGenerator/ScopedArrayGeneratorTest.html" title="class in arrayGenerator"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
+<li><a href="../arrayGenerator/IntegerArrayGeneratorTest.html" title="class in SingleLinkedList"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
+<li><a href="../arrayGenerator/ScopedArrayGeneratorTest.html" title="class in SingleLinkedList"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
 </ul>
 <ul class="navList">
-<li><a href="../index.html?arrayGenerator/ScopedArrayGenerator.html" target="_top">Frames</a></li>
+<li><a href="../index.html?SingleLinkedList/ScopedArrayGenerator.html" target="_top">Frames</a></li>
 <li><a href="ScopedArrayGenerator.html" target="_top">No&nbsp;Frames</a></li>
 </ul>
 <ul class="navList" id="allclasses_navbar_top">
@@ -91,7 +91,7 @@ var activeTableTab = "activeTableTab";
 <!-- ========= END OF TOP NAVBAR ========= -->
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="subTitle">arrayGenerator</div>
+<div class="subTitle">SingleLinkedList</div>
 <h2 title="Class ScopedArrayGenerator" class="title">Class ScopedArrayGenerator&lt;T&gt;</h2>
 </div>
 <div class="contentContainer">
@@ -99,7 +99,7 @@ var activeTableTab = "activeTableTab";
 <li>java.lang.Object</li>
 <li>
 <ul class="inheritance">
-<li>arrayGenerator.ScopedArrayGenerator&lt;T&gt;</li>
+<li>SingleLinkedList.ScopedArrayGenerator&lt;T&gt;</li>
 </ul>
 </li>
 </ul>
@@ -112,23 +112,23 @@ var activeTableTab = "activeTableTab";
 </dl>
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="../arrayGenerator/ArrayGenerator.html" title="interface in arrayGenerator">ArrayGenerator</a>&lt;T&gt;</dd>
+<dd><a href="../arrayGenerator/ArrayGenerator.html" title="interface in SingleLinkedList">ArrayGenerator</a>&lt;T&gt;</dd>
 </dl>
 <dl>
 <dt>Direct Known Subclasses:</dt>
-<dd><a href="../arrayGenerator/CharacterArrayGenerator.html" title="class in arrayGenerator">CharacterArrayGenerator</a>, <a href="../arrayGenerator/IntegerArrayGenerator.html" title="class in arrayGenerator">IntegerArrayGenerator</a>, <a href="../arrayGenerator/StringArrayGenerator.html" title="class in arrayGenerator">StringArrayGenerator</a></dd>
+<dd><a href="../arrayGenerator/CharacterArrayGenerator.html" title="class in SingleLinkedList">CharacterArrayGenerator</a>, <a href="../arrayGenerator/IntegerArrayGenerator.html" title="class in SingleLinkedList">IntegerArrayGenerator</a>, <a href="../arrayGenerator/StringArrayGenerator.html" title="class in SingleLinkedList">StringArrayGenerator</a></dd>
 </dl>
 <hr>
 <br>
 <pre>public abstract class <span class="typeNameLabel">ScopedArrayGenerator&lt;T&gt;</span>
 extends java.lang.Object
-implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in arrayGenerator">ArrayGenerator</a>&lt;T&gt;</pre>
+implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in SingleLinkedList">ArrayGenerator</a>&lt;T&gt;</pre>
 <div class="block">A scoped array generator generates arrays in which the generated elements fall within
- a certain <a href="../arrayGenerator.scope/Scope.html" title="interface in arrayGenerator.scope"><code>Scope</code></a>.
+ a certain <a href="../arrayGenerator.scope/Scope.html" title="interface in SingleLinkedList.scope"><code>Scope</code></a>.
 
- Implementing classes must provide methods for checking whether a value is within the arrayGenerator.scope,
- a method returning a random element within the arrayGenerator.scope, and a method returning the size of the
- arrayGenerator.scope.</div>
+ Implementing classes must provide methods for checking whether a value is within the SingleLinkedList.scope,
+ a method returning a random element within the SingleLinkedList.scope, and a method returning the size of the
+ SingleLinkedList.scope.</div>
 <dl>
 <dt><span class="simpleTagLabel">Version:</span></dt>
 <dd>October 2018</dd>
@@ -153,7 +153,7 @@ implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in a
 <th class="colOne" scope="col">Constructor and Description</th>
 </tr>
 <tr class="altColor">
-<td class="colOne"><code><span class="memberNameLink"><a href="../arrayGenerator/ScopedArrayGenerator.html#ScopedArrayGenerator-arrayGenerator.scope.Scope-">ScopedArrayGenerator</a></span>(<a href="../arrayGenerator.scope/Scope.html" title="interface in arrayGenerator.scope">Scope</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;&nbsp;arrayGenerator.scope)</code>&nbsp;</td>
+<td class="colOne"><code><span class="memberNameLink"><a href="../arrayGenerator/ScopedArrayGenerator.html#ScopedArrayGenerator-arrayGenerator.scope.Scope-">ScopedArrayGenerator</a></span>(<a href="../arrayGenerator.scope/Scope.html" title="interface in SingleLinkedList.scope">Scope</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;&nbsp;SingleLinkedList.scope)</code>&nbsp;</td>
 </tr>
 </table>
 </li>
@@ -179,11 +179,11 @@ implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in a
 <tr id="i1" class="rowColor">
 <td class="colFirst"><code><a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>[]</code></td>
 <td class="colLast"><code><span class="memberNameLink"><a href="../arrayGenerator/ScopedArrayGenerator.html#getArray-int-">getArray</a></span>(int&nbsp;size)</code>
-<div class="block">Generate an array of random values (within this generator's arrayGenerator.scope).</div>
+<div class="block">Generate an array of random values (within this generator's SingleLinkedList.scope).</div>
 </td>
 </tr>
 <tr id="i2" class="altColor">
-<td class="colFirst"><code><a href="../arrayGenerator.scope/Scope.html" title="interface in arrayGenerator.scope">Scope</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;</code></td>
+<td class="colFirst"><code><a href="../arrayGenerator.scope/Scope.html" title="interface in SingleLinkedList.scope">Scope</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;</code></td>
 <td class="colLast"><code><span class="memberNameLink"><a href="../arrayGenerator/ScopedArrayGenerator.html#getScope--">getScope</a></span>()</code>&nbsp;</td>
 </tr>
 </table>
@@ -214,7 +214,7 @@ implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in a
 <ul class="blockListLast">
 <li class="blockList">
 <h4>ScopedArrayGenerator</h4>
-<pre>public&nbsp;ScopedArrayGenerator(<a href="../arrayGenerator.scope/Scope.html" title="interface in arrayGenerator.scope">Scope</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;&nbsp;arrayGenerator.scope)</pre>
+<pre>public&nbsp;ScopedArrayGenerator(<a href="../arrayGenerator.scope/Scope.html" title="interface in SingleLinkedList.scope">Scope</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;&nbsp;SingleLinkedList.scope)</pre>
 </li>
 </ul>
 </li>
@@ -231,7 +231,7 @@ implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in a
 <ul class="blockList">
 <li class="blockList">
 <h4>getScope</h4>
-<pre>public&nbsp;<a href="../arrayGenerator.scope/Scope.html" title="interface in arrayGenerator.scope">Scope</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;&nbsp;getScope()</pre>
+<pre>public&nbsp;<a href="../arrayGenerator.scope/Scope.html" title="interface in SingleLinkedList.scope">Scope</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;&nbsp;getScope()</pre>
 </li>
 </ul>
 <a name="createArray-int-">
@@ -254,7 +254,7 @@ implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in a
 <dt><span class="paramLabel">Parameters:</span></dt>
 <dd><code>size</code> - the size of the array to be generated</dd>
 <dt><span class="returnLabel">Returns:</span></dt>
-<dd>an array of the required size, containing values within this arrayGenerator.scope</dd>
+<dd>an array of the required size, containing values within this SingleLinkedList.scope</dd>
 </dl>
 </li>
 </ul>
@@ -266,15 +266,15 @@ implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in a
 <h4>getArray</h4>
 <pre>public&nbsp;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>[]&nbsp;getArray(int&nbsp;size)
              throws java.lang.NegativeArraySizeException</pre>
-<div class="block">Generate an array of random values (within this generator's arrayGenerator.scope).</div>
+<div class="block">Generate an array of random values (within this generator's SingleLinkedList.scope).</div>
 <dl>
 <dt><span class="overrideSpecifyLabel">Specified by:</span></dt>
-<dd><code><a href="../arrayGenerator/ArrayGenerator.html#getArray-int-">getArray</a></code>&nbsp;in interface&nbsp;<code><a href="../arrayGenerator/ArrayGenerator.html" title="interface in arrayGenerator">ArrayGenerator</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;</code></dd>
+<dd><code><a href="../arrayGenerator/ArrayGenerator.html#getArray-int-">getArray</a></code>&nbsp;in interface&nbsp;<code><a href="../arrayGenerator/ArrayGenerator.html" title="interface in SingleLinkedList">ArrayGenerator</a>&lt;<a href="../arrayGenerator/ScopedArrayGenerator.html" title="type parameter in ScopedArrayGenerator">T</a>&gt;</code></dd>
 <dt><span class="paramLabel">Parameters:</span></dt>
 <dd><code>size</code> - the size of the array to be generated.</dd>
 <dt><span class="returnLabel">Returns:</span></dt>
 <dd>an array of the required size, containing random values from within the
-    permitted arrayGenerator.scope.</dd>
+    permitted SingleLinkedList.scope.</dd>
 <dt><span class="throwsLabel">Throws:</span></dt>
 <dd><code>java.lang.NegativeArraySizeException</code> - if the size given is negative.</dd>
 </dl>
@@ -307,11 +307,11 @@ implements <a href="../arrayGenerator/ArrayGenerator.html" title="interface in a
 </div>
 <div class="subNav">
 <ul class="navList">
-<li><a href="../arrayGenerator/IntegerArrayGeneratorTest.html" title="class in arrayGenerator"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
-<li><a href="../arrayGenerator/ScopedArrayGeneratorTest.html" title="class in arrayGenerator"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
+<li><a href="../arrayGenerator/IntegerArrayGeneratorTest.html" title="class in SingleLinkedList"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
+<li><a href="../arrayGenerator/ScopedArrayGeneratorTest.html" title="class in SingleLinkedList"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
 </ul>
 <ul class="navList">
-<li><a href="../index.html?arrayGenerator/ScopedArrayGenerator.html" target="_top">Frames</a></li>
+<li><a href="../index.html?SingleLinkedList/ScopedArrayGenerator.html" target="_top">Frames</a></li>
 <li><a href="ScopedArrayGenerator.html" target="_top">No&nbsp;Frames</a></li>
 </ul>
 <ul class="navList" id="allclasses_navbar_bottom">

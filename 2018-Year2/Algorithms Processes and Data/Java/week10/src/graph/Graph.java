@@ -50,7 +50,7 @@ public interface Graph<T> {
      * @param end the end node of the edge to be added.
      * @throws GraphError if the edge already exists, or if either <tt>start</tt> or <tt>end</tt> is not a node in the graph
      */
-    public void add(T start, T end) throws GraphError;
+    public void addEdge(T start, T end) throws GraphError;
 
     /**
      * Remove an edge from the graph.

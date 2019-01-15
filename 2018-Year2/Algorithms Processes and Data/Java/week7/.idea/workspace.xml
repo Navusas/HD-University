@@ -1,7 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="041d2080-0347-49cb-9d2d-5e92664aefbe" name="Default" comment="" />
+    <list default="true" id="041d2080-0347-49cb-9d2d-5e92664aefbe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/SingleLinkedList/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/src/AVLTrees/BTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/src/AVLTrees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/src/AVLTrees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/CharacterBinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/IntegerBinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/StringBinaryTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/ArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/ArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/ArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/ArrayGeneratorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/CharacterArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/CharacterArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/CharacterArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/CharacterArrayGeneratorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/IntegerArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/IntegerArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/IntegerArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/IntegerArrayGeneratorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/ScopedArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/ScopedArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/ScopedArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/ScopedArrayGeneratorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/StringArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/StringArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/StringArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/StringArrayGeneratorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/generator/ArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/generator/ArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/generator/CharacterArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/generator/CharacterArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/generator/IntegerArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/generator/IntegerArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/generator/ScopedArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/generator/ScopedArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/generator/StringArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/generator/StringArrayGenerator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/generator/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/generator/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/generator/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/generator/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/generator/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/generator/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/scope/AlphabetScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/scope/AlphabetScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/scope/CharacterScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/scope/CharacterScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/scope/IntegerScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/scope/IntegerScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/scope/Scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/scope/Scope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/scope/StringScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/scope/StringScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/scope/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/scope/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/scope/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/scope/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/arrayGenerator/scope/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/arrayGenerator/scope/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/linkedList/list/DoubleLinkQueue.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/linkedList/list/DoubleLinkQueue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/linkedList/list/ListAccessError.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/linkedList/list/ListAccessError.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/linkedList/list/SingleLinkStack.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/linkedList/list/SingleLinkStack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scope/AlphabetScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scope/AlphabetScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scope/CharacterScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scope/CharacterScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scope/IntegerScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scope/IntegerScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scope/Scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scope/Scope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scope/StringScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scope/StringScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scope/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scope/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scope/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scope/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scope/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scope/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/generator/ArrayGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/generator/CharacterArrayGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/generator/IntegerArrayGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/generator/ScopedArrayGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/generator/StringArrayGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/scope/AlphabetScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/scope/CharacterScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/scope/IntegerScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/scope/Scope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/arrayGenerator/scope/StringScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/BasicList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/DoubleLinkQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/ListAccessError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/SingleLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/SingleLinkStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7/linkedList/list/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7/arrayGenerator/ArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7/arrayGenerator/CharacterArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7/arrayGenerator/IntegerArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7/arrayGenerator/ScopedArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7/arrayGenerator/StringArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7/linkedList/list/ArrayHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7/linkedList/list/Comparison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7/linkedList/list/SingleLinkListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/generator/ArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/generator/ArrayGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/generator/CharacterArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/generator/CharacterArrayGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/generator/IntegerArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/generator/IntegerArrayGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/generator/ScopedArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/generator/ScopedArrayGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/generator/StringArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/generator/StringArrayGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/scope/AlphabetScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/scope/AlphabetScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/scope/CharacterScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/scope/CharacterScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/scope/IntegerScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/scope/IntegerScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/scope/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/scope/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayGenerator/scope/StringScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleLinkedList/scope/StringScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/BasicList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/BasicList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/DoubleLinkQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/DoubleLinkQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/ListAccessError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/ListAccessError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/SingleLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/SingleLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/SingleLinkStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/SingleLinkStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/list/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/ArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SingleLinkedList/ArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/CharacterArrayGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/IntegerArrayGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/ScopedArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SingleLinkedList/ScopedArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/StringArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SingleLinkedList/StringArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/linkedList/list/ArrayHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/linkedList/list/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/linkedList/list/SingleLinkListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/out/production/week9answer/binaryTree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/out/production/week9answer/binaryTree/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/ArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/CharacterArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/IntegerArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/ScopedArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/StringArrayGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/binaryTree/BinaryTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/out/test/week9answer/binaryTree/BinaryTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/src/binaryTree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/src/binaryTree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/ArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/ArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/CharacterArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SingleLinkedList/CharacterArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/IntegerArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SingleLinkedList/IntegerArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/ScopedArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/ScopedArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/StringArrayGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/tests/binaryTree/BinaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/BinaryTreeTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +179,51 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1628445512">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1125" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/linkedList/list/SingleLinkListTest.java">
+        <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/ArrayGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="102">
+              <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1013#1014#0" expanded="true" />
+                <element signature="e#1268#1269#0" expanded="true" />
+                <element signature="e#1301#1302#0" expanded="true" />
+                <element signature="e#1349#1350#0" expanded="true" />
+                <element signature="e#1429#1430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/CharacterArrayGeneratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,25 +232,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/linkedList/list/ArrayHandler.java">
+        <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/ScopedArrayGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#getIntegerArray#1;class#ArrayHandler#0" />
-                <element signature="method#getCharacterArray#1;class#ArrayHandler#0" />
-                <element signature="method#getStringArray#1;class#ArrayHandler#0" />
-              </folding>
+              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/IntegerArrayGeneratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/StringArrayGeneratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/linkedList/list/Comparison.java">
+        <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/LinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="515">
+              <caret line="109" column="5" lean-forward="true" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linkedList/SingleLinkList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2987">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -102,13 +297,12 @@
       <replace>String</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/arrayGenerator/IntegerArrayGenerator.java" />
-        <option value="$PROJECT_DIR$/src/scope/IntegerScope.java" />
-        <option value="$PROJECT_DIR$/src/scope/StringScope.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/Node.java" />
         <option value="$PROJECT_DIR$/src/linkedList/SingleLinkList.java" />
         <option value="$PROJECT_DIR$/src/linkedList/LinearList.java" />
         <option value="$PROJECT_DIR$/src/linkedList/BasicList.java" />
@@ -140,7 +334,6 @@
         <option value="$PROJECT_DIR$/src/linkedList/node/SingleLinkNode.java" />
         <option value="$PROJECT_DIR$/src/linkedList/main.java" />
         <option value="$PROJECT_DIR$/src/linkedList/list/SingleLinkList.java" />
-        <option value="$PROJECT_DIR$/tests/arrayGenerator/CharacterArrayGeneratorTest.java" />
         <option value="$PROJECT_DIR$/tests/arrayGenerator/ArrayGeneratorTest.java" />
         <option value="$PROJECT_DIR$/tests/arrayGenerator/ScopedArrayGeneratorTest.java" />
         <option value="$PROJECT_DIR$/tests/linkedList/list/CompareListToArray.java" />
@@ -151,6 +344,16 @@
         <option value="$PROJECT_DIR$/tests/linkedList/list/IntegerListTest.java" />
         <option value="$PROJECT_DIR$/tests/linkedList/list/SingleLinkListTest.java" />
         <option value="$PROJECT_DIR$/tests/linkedList/list/Comparison.java" />
+        <option value="$PROJECT_DIR$/tests/arrayGenerator/CharacterArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/tests/arrayGenerator/IntegerArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/tests/linkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/tests/SingleLinkedList/ScopedArrayGeneratorTestImpl.java" />
+        <option value="$PROJECT_DIR$/tests/SingleLinkedList/ScopedArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/tests/SingleLinkedList/CharacterArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/tests/SingleLinkedList/IntegerArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/tests/SingleLinkedList/StringArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/tests/SingleLinkedList/ArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/tests/SingleLinkedList/LinkedListTest.java" />
       </list>
     </option>
   </component>
@@ -170,6 +373,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -187,34 +391,7 @@
               <item name="week7" type="b2602c69:ProjectViewProjectNode" />
               <item name="week7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayGenerator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="week7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayGenerator" type="462c0819:PsiDirectoryNode" />
-              <item name="generator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="week7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayGenerator" type="462c0819:PsiDirectoryNode" />
-              <item name="scope" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="week7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="timer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="week7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="timer" type="462c0819:PsiDirectoryNode" />
-              <item name="timer" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleLinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="week7" type="b2602c69:ProjectViewProjectNode" />
@@ -225,19 +402,12 @@
               <item name="week7" type="b2602c69:ProjectViewProjectNode" />
               <item name="week7" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayGenerator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="week7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week7" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleLinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,12 +416,15 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546694972872" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547500540874" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week10" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SingleLinkedList" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="linkedList.list" />
       <recent name="arrayGenerator" />
@@ -259,19 +432,20 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\2nd University Year\Algorithms Processes and Data\week7\src" />
-      <recent name="D:\2nd University Year\Algorithms Processes and Data\week7" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="SingleLinkedList" />
       <recent name="linkedList.list" />
-      <recent name="arrayGenerator" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="arrayGenerator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="K:\cis2344\Intellij18-19\week7\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="arrayGenerator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\2nd University Year\Algorithms Processes and Data\week7\src" />
+      <recent name="D:\2nd University Year\Algorithms Processes and Data\week7" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -286,7 +460,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SingleLinkListTest">
+  <component name="RunManager" selected="JUnit.CharacterArrayGeneratorTest and 2 more">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -360,7 +534,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
+          <option name="PATTERN" value="SingleLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,11 +542,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in week7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharacterArrayGeneratorTest and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week7" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SingleLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SingleLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="SingleLinkedList.LinkedListTest" />
+      <option name="TEST_OBJECT" value="pattern" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <patterns>
+        <pattern testClass="SingleLinkedList.CharacterArrayGeneratorTest" />
+        <pattern testClass="SingleLinkedList.IntegerArrayGeneratorTest" />
+        <pattern testClass="SingleLinkedList.StringArrayGeneratorTest" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -407,19 +593,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in week7" />
       <item itemvalue="Application.main" />
       <item itemvalue="JUnit.SingleLinkListTest" />
       <item itemvalue="Application.IntegerBubbleSortTimer" />
       <item itemvalue="Application.IntegerListTest" />
+      <item itemvalue="JUnit.CharacterArrayGeneratorTest and 2 more" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CharacterArrayGeneratorTest and 2 more" />
+        <item itemvalue="JUnit.CharacterArrayGeneratorTest and 2 more" />
+        <item itemvalue="JUnit.CharacterArrayGeneratorTest and 2 more" />
         <item itemvalue="JUnit.SingleLinkListTest" />
         <item itemvalue="Application.IntegerListTest" />
-        <item itemvalue="Application.IntegerBubbleSortTimer" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="JUnit.All in week7" />
       </list>
     </recent_temporary>
   </component>
@@ -440,25 +626,11 @@
       <workItem from="1546638049205" duration="9319000" />
       <workItem from="1546693791763" duration="1023000" />
       <workItem from="1546695316310" duration="618000" />
+      <workItem from="1547498671833" duration="1860000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SingleLinkListTest - 2019.01.05 at 00h 28m 26s.xml">
-      <configuration name="SingleLinkListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingleLinkListTest - 2019.01.05 at 13h 14m 42s.xml">
-      <configuration name="SingleLinkListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingleLinkListTest - 2019.01.05 at 13h 14m 49s.xml">
-      <configuration name="SingleLinkListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingleLinkListTest - 2019.01.05 at 13h 22m 37s.xml">
-      <configuration name="SingleLinkListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingleLinkListTest - 2019.01.05 at 13h 22m 41s.xml">
-      <configuration name="SingleLinkListTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SingleLinkListTest - 2019.01.05 at 13h 22m 42s.xml">
       <configuration name="SingleLinkListTest" configurationId="JUnit" />
     </history-entry>
@@ -474,15 +646,29 @@
     <history-entry file="SingleLinkListTest - 2019.01.05 at 13h 25m 14s.xml">
       <configuration name="SingleLinkListTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SingleLinkListTest - 2019.01.14 at 20h 45m 55s.xml">
+      <configuration name="SingleLinkListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterArrayGeneratorTest_and_2_more - 2019.01.14 at 21h 08m 11s.xml">
+      <configuration name="CharacterArrayGeneratorTest and 2 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterArrayGeneratorTest_and_2_more - 2019.01.14 at 21h 10m 43s.xml">
+      <configuration name="CharacterArrayGeneratorTest and 2 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterArrayGeneratorTest_and_2_more - 2019.01.14 at 21h 13m 27s.xml">
+      <configuration name="CharacterArrayGeneratorTest and 2 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterArrayGeneratorTest_and_2_more - 2019.01.14 at 21h 14m 19s.xml">
+      <configuration name="CharacterArrayGeneratorTest and 2 more" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23878000" />
+    <option name="totallyTimeSpent" value="25738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2675906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -492,8 +678,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4312026" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2611051" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -526,49 +712,49 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/generator/StringArrayGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/generator/StringArrayGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/scope/CharacterScope.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/scope/CharacterScope.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/scope/AlphabetScope.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/scope/AlphabetScope.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/SingleLinkStack.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/SingleLinkStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/ListAccessError.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/ListAccessError.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
@@ -582,7 +768,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
@@ -590,52 +776,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/main.java" />
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/DoubleLinkQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/DoubleLinkQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/generator/ArrayGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/generator/ArrayGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/IntegerArrayGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/ArrayGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/ScopedArrayGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/generator/CharacterArrayGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/generator/CharacterArrayGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/generator/ScopedArrayGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/generator/ScopedArrayGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-212">
           <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
@@ -645,52 +807,35 @@
     <entry file="file://$PROJECT_DIR$/tests/linkedList/list/CompareListToArray.java" />
     <entry file="file://$PROJECT_DIR$/timer/arraySorter/BubbleSortTimer.java" />
     <entry file="file://$PROJECT_DIR$/timer/stringSearcher/SequentialSearcherSubstringSizeTimer.java" />
-    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/StringArrayGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/generator/IntegerArrayGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/generator/IntegerArrayGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/arrayGenerator/CharacterArrayGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/scope/Scope.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/scope/Scope.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/scope/IntegerScope.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/scope/IntegerScope.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/BasicList.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/BasicList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="64" column="37" lean-forward="true" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/List.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
@@ -704,7 +849,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayGenerator/scope/StringScope.java">
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedList/scope/StringScope.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
@@ -718,52 +863,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/timer/timer/Timer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timer/timer/Timer.java" />
     <entry file="file://$PROJECT_DIR$/tests/linkedList/list/IntegerListTest.java" />
     <entry file="file://$PROJECT_DIR$/tests/linkedList/list/LinkedListTimer.java" />
-    <entry file="file://$PROJECT_DIR$/src/linkedList/list/SingleLinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/linkedList/list/SingleLinkListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/linkedList/list/ArrayHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getIntegerArray#1;class#ArrayHandler#0" />
-            <element signature="method#getCharacterArray#1;class#ArrayHandler#0" />
-            <element signature="method#getStringArray#1;class#ArrayHandler#0" />
-          </folding>
+        <state relative-caret-position="561">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/linkedList/list/Comparison.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#433#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/list/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/linkedList/list/SingleLinkListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/ScopedArrayGeneratorTestImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/ArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/SingleLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2987">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/ScopedArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/CharacterArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/IntegerArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/StringArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SingleLinkedList/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="109" column="5" lean-forward="true" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

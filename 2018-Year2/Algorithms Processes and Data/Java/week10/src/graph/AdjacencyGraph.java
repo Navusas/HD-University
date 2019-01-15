@@ -2,23 +2,24 @@ package graph;
 
 /**
  * An implementation of graphs using adjacency lists
- * 
+ *
  * @author Hugh Osborne
  * @version November 2018
  */
 
 // Will use a hashtable to implement the adjacency list
-import java.util.Hashtable;
-// The hashtable will map nodes to sets of nodes
-import java.util.Set;
-// Use hashsets as the implementation of sets
-import java.util.HashSet;
 
-public class AdjacencyGraph<T> implements Graph<T>
-{
+import java.util.HashSet;
+import java.util.Hashtable;
+import java.util.Set;
+
+// The hashtable will map nodes to sets of nodes
+// Use hashsets as the implementation of sets
+
+public class AdjacencyGraph<T> implements Graph<T> {
     // The adjacency list: maps a node to a set containing the neighbours of that node
-    private Hashtable<T,Set<T>> adjacencyList = new Hashtable<T,Set<T>>();
-    
+    private Hashtable<T, Set<T>> adjacencyList = new Hashtable<T, Set<T>>();
+
     // Fields used to keep the number of nodes and edges in the graph
     private int noOfNodes = 0, noOfEdges = 0;
 
@@ -26,7 +27,7 @@ public class AdjacencyGraph<T> implements Graph<T>
      * Check if the graph contains a given node.
      *
      * @param node the node to be checked.
-     * @return (<tt>node</tt> is a node in the graph).
+     * @return (< tt > node < / tt > is a node in the graph).
      */
     public boolean contains(T node) {
         return getNodes().contains(node);
@@ -37,9 +38,9 @@ public class AdjacencyGraph<T> implements Graph<T>
      *
      * @param start the start node of the edge to be checked.
      * @param end the end node of the edge to be checked.
-     * @return (there is an edge from <tt>start</tt> to <tt>end</tt> in the graph).
+     * @return (there is an edge from < tt > start < / tt > to < tt > end < / tt > in the graph).
      */
-    public boolean contains(T start,T end) {
+    public boolean contains(T start, T end) {
         // check that both nodes are in the graph, and then check that "end" is in
         // "start"'s entry in the adjacency list
         return contains(start) && contains(end) && adjacencyList.get(start).contains(end);
@@ -57,7 +58,7 @@ public class AdjacencyGraph<T> implements Graph<T>
         } else {
             // Add a new entry to the adjacency list.  This is a new node, so it will not yet have any
             // neighbours, so its entry in the adjacency list will be a new, empty, set
-            adjacencyList.put(node,new HashSet<T>());
+            adjacencyList.put(node, new HashSet<T>());
             // increase number of nodes
             noOfNodes++;
         }
@@ -82,12 +83,12 @@ public class AdjacencyGraph<T> implements Graph<T>
             noOfNodes--;
             // remove any links to the node by removing the node, if present, from all of the remaining
             // entries in the adjacencyList
-            for (T start: adjacencyList.keySet()) {
-                if (contains(start,node)) {
+            for (T start : adjacencyList.keySet()) {
+                if (contains(start, node)) {
                     // reduce number of edges
                     noOfEdges--;
                     // remove edge
-                    remove(start,node);
+                    remove(start, node);
                 }
             }
         }
@@ -100,8 +101,8 @@ public class AdjacencyGraph<T> implements Graph<T>
      * @param end the end node of the edge to be added.
      * @throws GraphError if the edge already exists, or if either <tt>start</tt> or <tt>end</tt> is not a node in the graph
      */
-    public void add(T start, T end) throws GraphError {
-        if (contains(start,end)) {
+    public void addEdge(T start, T end) throws GraphError {
+        if (contains(start, end)) {
             throw new GraphError("Cannot add " + start + "==>" + end + " to the graph.  This edge is already in the graph.");
         } else if (!contains(start) || !contains(end)) {
             throw new GraphError("Cannot add " + start + "==>" + end + " to the graph.  One or both of the nodes on this edge is not in the graph.");
@@ -121,7 +122,7 @@ public class AdjacencyGraph<T> implements Graph<T>
      * @throws GraphError if there is no such edge in this graph
      */
     public void remove(T start, T end) throws GraphError {
-        if (!contains(start,end)) {
+        if (!contains(start, end)) {
             throw new GraphError("Cannot remove " + start + "==>" + end + " from the graph.  There is no such edge in the graph.");
         } else {
             // delete "end" from "start"'s entry in the adjacency list
@@ -142,7 +143,7 @@ public class AdjacencyGraph<T> implements Graph<T>
         // The neighbours can be accessed through this node's entry in the adjacency list.
         // Note: Create a copy of the entry to avoid users being able to change the adjacency list.
         Set<T> copy = new HashSet<T>();
-        for (T member: adjacencyList.get(node)) {
+        for (T member : adjacencyList.get(node)) {
             copy.add(member);
         }
         return copy;
@@ -166,7 +167,7 @@ public class AdjacencyGraph<T> implements Graph<T>
         // Note: The nodes can be accessed through the adjacency list's key set.
         // Note: Create a copy of the key set to avoid users being able to change the adjacency list
         HashSet<T> copy = new HashSet<T>();
-        for (T member: adjacencyList.keySet()) {
+        for (T member : adjacencyList.keySet()) {
             copy.add(member);
         }
         return copy;
@@ -179,5 +180,20 @@ public class AdjacencyGraph<T> implements Graph<T>
      */
     public int getNoOfEdges() {
         return noOfEdges;
+    }
+
+    /**
+     * Outputs node connections to other nodes
+     *
+     * @throws GraphError if node does not exists
+     */
+    public void printGraph() throws GraphError {
+        for (T source : getNodes()) {
+            System.out.print(source + " is connected to: ");
+            for (T nodes : getNeighbours(source)) {
+                System.out.print(" " + nodes);
+            }
+            System.out.println();
+        }
     }
 }
