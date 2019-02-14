@@ -81,8 +81,8 @@ public class DepthFirstTraversal<T> extends AdjacencyGraph<T> implements Travers
      * @throws GraphError if element is not in a graph
      */
     private T getSpecificUnvisitedNode(T node) throws GraphError {
-        if(!contains(node))throw new GraphError("The node does not exists in the graph");
-        else if(isVisited(node)) throw new NullPointerException("This node has been visited before");
+        if (!contains(node)) throw new GraphError("The node does not exists in the graph");
+        else if (isVisited(node)) throw new NullPointerException("This node has been visited before");
         else return node;
     }
 

@@ -2,267 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ff5083b-cddc-41fa-9879-5e757240fc61" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../week10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week10/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/test/graph/DepthFirstTraversalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week10/out/production/week10/graph/AdjacencyGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/out/production/week10/graph/AdjacencyGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week10/out/test/week10/graph/AdjacencyGraphTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week10/src/graph/AdjacencyGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/src/graph/AdjacencyGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week10/src/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/src/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week10/week10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/week10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week11/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week10/src/graph/DepthFirstTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/src/graph/DepthFirstTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week10/test/graph/AdjacencyGraphTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week11/week11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/week11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/out/production/week11/graph/AdjacencyGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/out/production/week11/graph/AdjacencyGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/out/production/week11/graph/ReferenceCountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/out/production/week11/graph/ReferenceCountingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/out/test/week11/graph/ReferenceCountingSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/out/test/week11/graph/ReferenceCountingSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/src/graph/AdjacencyGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/src/graph/AdjacencyGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/src/graph/ReferenceCountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/src/graph/ReferenceCountingSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/tests/graph/ReferenceCountingSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/tests/graph/ReferenceCountingSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/allclasses-frame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/CharacterArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/CharacterArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/CharacterArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/CharacterArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/IntegerArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/IntegerArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/IntegerArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/IntegerArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ScopedArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ScopedArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ScopedArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ScopedArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/StringArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/StringArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/StringArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/StringArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/ArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/ArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/CharacterArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/CharacterArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/IntegerArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/IntegerArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/ScopedArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/ScopedArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/StringArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/StringArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/AlphabetScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/AlphabetScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/CharacterScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/CharacterScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/IntegerScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/IntegerScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/Scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/Scope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/StringScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/StringScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-12.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/BasicList.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/BasicList.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/DoubleLinkQueue.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/DoubleLinkQueue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/LinkedList.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/LinkedList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/List.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/List.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/ListAccessError.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/ListAccessError.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/Queue.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/Queue.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/SingleLinkStack.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/SingleLinkStack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/Stack.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/Stack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/DoubleLinkNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/DoubleLinkNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/ListNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/ListNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/SingleLinkNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/SingleLinkNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/overview-frame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/overview-summary.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/overview-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/AlphabetScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/AlphabetScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/CharacterScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/CharacterScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/IntegerScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/IntegerScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/Scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/Scope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/StringScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/StringScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/package-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/ArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/CharacterArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/IntegerArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/ScopedArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/StringArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/AlphabetScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/CharacterScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/IntegerScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/Scope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/StringScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/BasicList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/DoubleLinkQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/ListAccessError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/SingleLinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/SingleLinkStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/ArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/CharacterArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/IntegerArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/ScopedArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/StringArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/linkedList/list/ArrayHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/linkedList/list/Comparison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/linkedList/list/SingleLinkListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/ArrayGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/CharacterArrayGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/IntegerArrayGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/ScopedArrayGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/StringArrayGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/AlphabetScope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/CharacterScope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/IntegerScope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/Scope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/StringScope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/BasicList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/DoubleLinkQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/ListAccessError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/SingleLinkList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/SingleLinkStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/SinglyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/ArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/CharacterArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/IntegerArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/ScopedArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/StringArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/linkedList/list/ArrayHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/linkedList/list/Comparison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/linkedList/list/SingleLinkListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/BasicList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/DoubleLinkQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/ListAccessError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/SingleLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/SingleLinkStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/node/DoubleLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/node/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/node/SingleLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/SingleLinkedList/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/out/test/week7/SingleLinkedList/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/BasicList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/BasicList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/DoubleLinkQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/DoubleLinkQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/ListAccessError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/ListAccessError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/SingleLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/SingleLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/SingleLinkStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/SingleLinkStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/node/DoubleLinkNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/node/DoubleLinkNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/node/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/node/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/node/SingleLinkNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/node/SingleLinkNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/IntegerArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/IntegerArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/LinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week9answer/binaryTree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week9answer/binaryTree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/week9answer/arrayGenerator/ArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/week9answer/arrayGenerator/CharacterArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/week9answer/arrayGenerator/IntegerArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/week9answer/arrayGenerator/ScopedArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/week9answer/arrayGenerator/StringArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/week9answer/binaryTree/BinaryTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/week9answer/binaryTree/BinaryTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVLTrees/AVLtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AVLTrees/AVLtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVLTrees/BTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVLTrees/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVLTrees/SelectionError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVLTrees/TreeNode.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binaryTree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binaryTree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/ArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/CharacterArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/IntegerArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/ScopedArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/arrayGenerator/StringArrayGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/binaryTree/ArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/binaryTree/ArrayGeneratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/binaryTree/BinaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/binaryTree/BinaryTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/artifacts/Design_and_Enterprise_Challenge_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/libraries/gson_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/libraries/json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/libraries/junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/Design and Enterprise Challenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/data/EmployeeList" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/artifacts/Design_and_Enterprise_Challenge_jar/Design and Enterprise Challenge.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/artifacts/Design_and_Enterprise_Challenge_jar/run.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/LoginFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/LoginFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/1Order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/2Order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/2Order_After.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/Order1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/Order2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/Order3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/Order4.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/Order5.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/OrderHeader.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/Orders/PickHeader.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/Back_Arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/Be pavadinimo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/ForkliftTruck_Loaded_Black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/Logout-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/System_Defined.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/Untitled-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/aaaaaaaaaaaaaaaaaaaaaaaaa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/breakTime.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/hello.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/hello_t8B_icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/login_button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/logout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/mmexport1547129832828.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/other.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/warehouse_worker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/images/woodCutting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/Sprites/originals/Back_Arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/lib/gson-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/lib/json.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/model/Chronomter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/model/DataHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/model/Date$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/model/Date$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/model/Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/out/production/Design and Enterprise Challenge/model/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/EEE.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/LoginFrame.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/LoginFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/1Order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/2Order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/2Order_After.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/Order1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/Order2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/Order3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/Order4.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/Order5.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/OrderHeader.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/Orders/PickHeader.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/Back_Arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/ForkliftTruck_Loaded_Black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/System_Defined.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/aaaaaaaaaaaaaaaaaaaaaaaaa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/breakTime.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/hello.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/hello_t8B_icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/login_button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/logout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/mmexport1547129832828.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/other.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/warehouse_worker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/images/woodCutting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Sprites/originals/Back_Arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Back_Arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Default Settings.iros" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/EEE Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/EEE Logo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/EEE Logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/EEE LogoV2.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Fiksavimas.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/High Quality Print.joboptions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/PDFX3 2002.joboptions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/PDFX4 2008.joboptions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Poster V2.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Press Quality.joboptions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/SettingsFileInterface.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Smallest File Size.joboptions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Untitled-1.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Untitled-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/Untitled-ę.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/aas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/asdads.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/banner_psd_by_flyingbandicoot-d84llf5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/Temp_Sprites/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/lib/gson-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/lib/json.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/model/Chronomter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/model/DataHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/model/Date.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Design and Enterprise Challenge/src/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/binaryTree/CharacterBinaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/binaryTree/CharacterBinaryTreeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -275,23 +103,25 @@
     <session id="-2021472481">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="58" />
+          <entry key="JAVA" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -304,54 +134,90 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AVLTrees/BTree.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/AVLTrees/AVLtree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="77" column="30" selection-end-line="154" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AVLTrees/TreeNode.java">
+        <entry file="file://$PROJECT_DIR$/tests/binaryTree/BinaryTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="2261">
+              <caret line="133" column="5" selection-end-line="134" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/binaryTree/IntegerBinaryTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/binaryTree/CharacterBinaryTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="13" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2720">
+              <caret line="176" column="7" selection-start-line="176" selection-start-column="7" selection-end-line="176" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1988#1989#0" expanded="true" />
+                <element signature="e#2045#2046#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+              <folding>
+                <element signature="e#1070#1071#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AVLTrees/AVLtree.java">
+        <entry file="file://$PROJECT_DIR$/tests/binaryTree/ArrayGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="59" column="47" selection-end-line="154" />
-              <folding>
-                <element signature="e#1025#1026#0" expanded="true" />
-                <element signature="e#1061#1062#0" expanded="true" />
-                <element signature="e#1179#1180#0" expanded="true" />
-                <element signature="e#1215#1216#0" expanded="true" />
-                <element signature="e#1459#1460#0" expanded="true" />
-                <element signature="e#1509#1510#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="362">
+              <caret line="26" column="21" selection-end-line="64" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AVLTrees/SelectionError.java">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/BTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AVLTrees/BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="187">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -385,7 +251,6 @@
         <option value="$PROJECT_DIR$/src/arrayGenerator/generator/IntegerArrayGenerator.java" />
         <option value="$PROJECT_DIR$/tests/arrayGenerator/IntegerArrayGeneratorTest.java" />
         <option value="$PROJECT_DIR$/tests/arrayGenerator/ArrayGeneratorTest.java" />
-        <option value="$PROJECT_DIR$/tests/binaryTree/CharacterBinaryTreeTest.java" />
         <option value="$PROJECT_DIR$/tests/binaryTree/IntegerBinaryTreeTest.java" />
         <option value="$PROJECT_DIR$/tests/binaryTree/StringBinaryTreeTest.java" />
         <option value="$PROJECT_DIR$/tests/arrayGenerator/StringArrayGeneratorTest.java" />
@@ -393,13 +258,15 @@
         <option value="$PROJECT_DIR$/tests/binaryTree/ScopedArrayGeneratorTest.java" />
         <option value="$PROJECT_DIR$/src/Throwable/ListAccessError.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/BTree.java" />
-        <option value="$PROJECT_DIR$/tests/binaryTree/BinaryTreeTest.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/AVLTree.java" />
         <option value="$PROJECT_DIR$/src/AVLTrees/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/binaryTree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/AVLTrees/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/AVLTrees/SelectionError.java" />
         <option value="$PROJECT_DIR$/src/AVLTrees/AVLtree.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/tests/binaryTree/BinaryTreeTest.java" />
+        <option value="$PROJECT_DIR$/tests/binaryTree/CharacterBinaryTreeTest.java" />
+        <option value="$PROJECT_DIR$/tests/binaryTree/ArrayGeneratorTest.java" />
       </list>
     </option>
   </component>
@@ -421,6 +288,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -474,7 +342,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -483,7 +350,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547498661208" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547562652978" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -636,10 +503,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CharacterBinaryTreeTest and 2 more" />
-        <item itemvalue="JUnit.CharacterBinaryTreeTest and 2 more" />
         <item itemvalue="JUnit.BinaryTreeTest" />
         <item itemvalue="JUnit.CharacterBinaryTreeTest and 2 more" />
-        <item itemvalue="JUnit.CharacterBinaryTreeTest" />
+        <item itemvalue="JUnit.CharacterBinaryTreeTest and 2 more" />
+        <item itemvalue="JUnit.CharacterBinaryTreeTest and 2 more" />
       </list>
     </recent_temporary>
   </component>
@@ -661,17 +528,14 @@
       <workItem from="1547482499965" duration="592000" />
       <workItem from="1547494129849" duration="4065000" />
       <workItem from="1547498262723" duration="402000" />
-      <workItem from="1547515956881" duration="1381000" />
+      <workItem from="1547515956881" duration="1383000" />
+      <workItem from="1547553671800" duration="47000" />
+      <workItem from="1547557292061" duration="346000" />
+      <workItem from="1547562474595" duration="769000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CharacterBinaryTreeTest_and_2_more - 2019.01.14 at 19h 59m 54s.xml">
-      <configuration name="CharacterBinaryTreeTest and 2 more" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharacterBinaryTreeTest_and_2_more - 2019.01.14 at 20h 00m 11s.xml">
-      <configuration name="CharacterBinaryTreeTest and 2 more" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CharacterBinaryTreeTest_and_2_more - 2019.01.14 at 20h 00m 38s.xml">
       <configuration name="CharacterBinaryTreeTest and 2 more" configurationId="JUnit" />
     </history-entry>
@@ -696,15 +560,20 @@
     <history-entry file="CharacterBinaryTreeTest_and_2_more - 2019.01.14 at 20h 29m 01s.xml">
       <configuration name="CharacterBinaryTreeTest and 2 more" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BinaryTreeTest - 2019.01.15 at 14h 28m 01s.xml">
+      <configuration name="BinaryTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterBinaryTreeTest_and_2_more - 2019.01.15 at 14h 28m 22s.xml">
+      <configuration name="CharacterBinaryTreeTest and 2 more" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35102000" />
+    <option name="totallyTimeSpent" value="36266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="499" y="167" width="284" height="923" id="Project" order="0" visible="true" weight="0.16577825" />
+      <window_info content_ui="combo" x="499" y="167" width="284" height="923" id="Project" order="0" visible="true" weight="0.1705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -715,7 +584,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.2383532" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.93391114" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -844,37 +713,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/binaryTree/IntegerBinaryTreeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/throwable/ListAccessError.java" />
+    <entry file="file://$PROJECT_DIR$/src/AVLTrees.java" />
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/AVLTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/AVLTrees/BTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/AVLTrees/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/AVLTrees/SelectionError.java" />
+    <entry file="file://$PROJECT_DIR$/src/AVLTrees/BinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/AVLTrees/AVLtree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="1309">
+          <caret line="77" column="30" selection-end-line="154" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/throwable/ListAccessError.java" />
     <entry file="file://$PROJECT_DIR$/tests/binaryTree/BinaryTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
-          <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+        <state relative-caret-position="2261">
+          <caret line="133" column="5" selection-end-line="134" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/binaryTree/ArrayGeneratorTest.java">
+    <entry file="file://$PROJECT_DIR$/tests/binaryTree/IntegerBinaryTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        <state relative-caret-position="153">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/binaryTree/CharacterBinaryTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <caret line="13" column="13" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="176" column="7" selection-start-line="176" selection-start-column="7" selection-end-line="176" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1988#1989#0" expanded="true" />
+            <element signature="e#2045#2046#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding>
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -886,72 +786,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AVLTrees.java" />
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/AVLTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/tests/binaryTree/ArrayGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#1098#1099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1988#1989#0" expanded="true" />
-            <element signature="e#2045#2046#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AVLTrees/BTree.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AVLTrees/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AVLTrees/SelectionError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AVLTrees/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AVLTrees/AVLtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="59" column="47" selection-end-line="154" />
-          <folding>
-            <element signature="e#1025#1026#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
-            <element signature="e#1215#1216#0" expanded="true" />
-            <element signature="e#1459#1460#0" expanded="true" />
-            <element signature="e#1509#1510#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="362">
+          <caret line="26" column="21" selection-end-line="64" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -14,19 +14,20 @@ import static org.junit.jupiter.api.Assertions.*;
 public abstract class BinaryTreeTest<T extends Comparable<? super T>> extends ScopedArrayGeneratorTest<T> {
 
     public abstract ArrayGenerator<T> getGenerator();
+
     private BinaryTree<T> tree;
     private T[] array;
 
 
     /**
      * Creates required size generic array AND transfers all the elements to binary tree
+     *
      * @param size required size of array
      */
     public void createArray(int size) {
-        if(tree != null){
+        if (tree != null) {
             tree = null;
-        }
-        else if (array != null) {
+        } else if (array != null) {
             array = null;
         }
         array = getGenerator().getArray(size);
@@ -41,7 +42,7 @@ public abstract class BinaryTreeTest<T extends Comparable<? super T>> extends Sc
      */
     private BinaryTree<T> arrayToBinaryTree(T[] array) {
         BinaryTree<T> tree = new BinaryTree<T>();
-        for(T value: array) tree.insert(value);
+        for (T value : array) tree.insert(value);
         return tree;
     }
 
@@ -54,7 +55,7 @@ public abstract class BinaryTreeTest<T extends Comparable<? super T>> extends Sc
      */
     private BinaryTree<T> newBinaryTree(int size) {
         BinaryTree<T> tree = new BinaryTree<T>();
-        for(T value: getGenerator().getArray(size)) {
+        for (T value : getGenerator().getArray(size)) {
             tree.insert(value);
         }
         return tree;
@@ -67,8 +68,8 @@ public abstract class BinaryTreeTest<T extends Comparable<? super T>> extends Sc
      */
     private void testIfContains(T value) {
         boolean arrayContains = false;
-        for(Object element: array) {
-            if(element == value) {
+        for (Object element : array) {
+            if (element == value) {
                 arrayContains = true;
                 break;
             }
@@ -82,10 +83,10 @@ public abstract class BinaryTreeTest<T extends Comparable<? super T>> extends Sc
      * @param size how many times to add the value
      */
     private void addToTree(int size) {
-        for(int i = 0 ; i <size; i++) {
+        for (int i = 0; i < size; i++) {
             tree.insert(array[0]);
         }
-        assertEquals(tree.size(), array.length+size);
+        assertEquals(tree.size(), array.length + size);
     }
 
     @Test
@@ -93,31 +94,37 @@ public abstract class BinaryTreeTest<T extends Comparable<? super T>> extends Sc
         createArray(10);
         testIfContains(array[5]);
     }
+
     @Test
     void testContains_sizeTwoThousand() {
         createArray(2000);
         testIfContains(array[1659]);
     }
+
     @Test
     void testContains_sizeLarge() {
         createArray(61238);
         testIfContains(array[1378]);
     }
+
     @Test
     void testTreeAndArraySizeEqual() {
         createArray(1212);
         assertEquals(tree.size(), array.length);
     }
+
     @Test
     void testAddElement_10() {
         createArray(20);
         addToTree(10);
     }
+
     @Test
     void testAddElement_1000() {
         createArray(500);
         addToTree(1000);
     }
+
     @Test
     void testAddElement_31531() {
         assertThrows(StackOverflowError.class, () -> {

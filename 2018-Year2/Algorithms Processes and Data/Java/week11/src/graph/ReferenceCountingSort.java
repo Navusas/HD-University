@@ -58,8 +58,8 @@ public class ReferenceCountingSort<T> extends AdjacencyGraph<T> implements Topol
     /**
      * Count 'Reference count' for each node storing its values
      * in HashMap, where:
-     *  *   Key         -   Node
-     *  *   Reference   -   Reference count(how many edges connection the node has
+     * *   Key         -   Node
+     * *   Reference   -   Reference count(how many edges connection the node has
      *
      * @throws GraphError if node does not exists
      */
@@ -104,6 +104,7 @@ public class ReferenceCountingSort<T> extends AdjacencyGraph<T> implements Topol
     private void increaseReferenceCount(T node) {
         referenceCount.replace(node, (referenceCount.get(node) + 1));
     }
+
     /**
      * Decreases Reference Count of the given node by 1
      *

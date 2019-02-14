@@ -37,7 +37,7 @@ public class AdjacencyGraph<T> implements Graph<T> {
      * Check if the graph contains a given edge between two nodes.
      *
      * @param start the start node of the edge to be checked.
-     * @param end the end node of the edge to be checked.
+     * @param end   the end node of the edge to be checked.
      * @return (there is an edge from < tt > start < / tt > to < tt > end < / tt > in the graph).
      */
     public boolean contains(T start, T end) {
@@ -98,7 +98,7 @@ public class AdjacencyGraph<T> implements Graph<T> {
      * Add an edge to the graph.
      *
      * @param start the start node of the edge to be added.
-     * @param end the end node of the edge to be added.
+     * @param end   the end node of the edge to be added.
      * @throws GraphError if the edge already exists, or if either <tt>start</tt> or <tt>end</tt> is not a node in the graph
      */
     public void addEdge(T start, T end) throws GraphError {
@@ -118,7 +118,7 @@ public class AdjacencyGraph<T> implements Graph<T> {
      * Remove an edge from the graph.
      *
      * @param start the start node of the edge to be removed.
-     * @param end the end node of the edge to be removed.
+     * @param end   the end node of the edge to be removed.
      * @throws GraphError if there is no such edge in this graph
      */
     public void remove(T start, T end) throws GraphError {
@@ -140,6 +140,8 @@ public class AdjacencyGraph<T> implements Graph<T> {
      * @throws GraphError if the node is not a node in the graph
      */
     public Set<T> getNeighbours(T node) throws GraphError {
+        // check if requested node is in a graph
+        if (!contains(node)) throw new GraphError("Element is not in a graph!");
         // The neighbours can be accessed through this node's entry in the adjacency list.
         // Note: Create a copy of the entry to avoid users being able to change the adjacency list.
         Set<T> copy = new HashSet<T>();

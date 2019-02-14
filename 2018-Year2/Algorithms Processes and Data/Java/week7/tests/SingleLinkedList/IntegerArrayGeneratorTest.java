@@ -3,7 +3,7 @@ package SingleLinkedList;
 import SingleLinkedList.generator.ArrayGenerator;
 import SingleLinkedList.generator.IntegerArrayGenerator;
 import SingleLinkedList.generator.ScopedArrayGenerator;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 import SingleLinkedList.scope.IntegerScope;
 import SingleLinkedList.scope.Scope;
 

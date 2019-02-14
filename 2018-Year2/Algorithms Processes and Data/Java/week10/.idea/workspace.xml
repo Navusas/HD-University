@@ -2,147 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937c0de6-7946-4ee5-8416-d4f8dfe61f37" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/graph/DepthFirstTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/graph/AdjacencyGraphTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9/src/AVLTrees/BTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9/src/AVLTrees/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9/src/AVLTrees/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/CharacterBinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/IntegerBinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/StringBinaryTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/graph/DepthFirstTraversalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week10/graph/AdjacencyGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week10/graph/AdjacencyGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week10/graph/AdjacencyGraphTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/graph/AdjacencyGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/AdjacencyGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/graph/AdjacencyGraphTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/out/production/week11/graph/AdjacencyGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/out/production/week11/graph/AdjacencyGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/out/production/week11/graph/ReferenceCountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/out/production/week11/graph/ReferenceCountingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/out/test/week11/graph/ReferenceCountingSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/out/test/week11/graph/ReferenceCountingSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/src/graph/AdjacencyGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/src/graph/AdjacencyGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/src/graph/ReferenceCountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/src/graph/ReferenceCountingSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/tests/graph/ReferenceCountingSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/tests/graph/ReferenceCountingSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/allclasses-frame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/CharacterArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/CharacterArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/CharacterArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/CharacterArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/IntegerArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/IntegerArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/IntegerArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/IntegerArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ScopedArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ScopedArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ScopedArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/ScopedArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/StringArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/StringArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/StringArrayGeneratorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/StringArrayGeneratorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/ArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/ArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/CharacterArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/CharacterArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/IntegerArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/IntegerArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/ScopedArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/ScopedArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/StringArrayGenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/StringArrayGenerator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/generator/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/AlphabetScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/AlphabetScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/CharacterScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/CharacterScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/IntegerScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/IntegerScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/Scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/Scope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/StringScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/StringScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/arrayGenerator/scope/package-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-12.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/BasicList.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/BasicList.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/DoubleLinkQueue.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/DoubleLinkQueue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/LinkedList.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/LinkedList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/List.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/List.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/ListAccessError.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/ListAccessError.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/Queue.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/Queue.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/SingleLinkStack.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/SingleLinkStack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/Stack.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/Stack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/list/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/DoubleLinkNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/DoubleLinkNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/ListNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/ListNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/SingleLinkNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/SingleLinkNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/linkedList/node/package-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/overview-frame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/overview-summary.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/overview-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/AlphabetScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/AlphabetScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/CharacterScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/CharacterScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/IntegerScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/IntegerScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/Scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/Scope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/StringScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/StringScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/docs/scope/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/scope/package-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7/docs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/docs/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/ArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/CharacterArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/IntegerArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/ScopedArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/generator/StringArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/AlphabetScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/CharacterScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/IntegerScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/Scope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/arrayGenerator/scope/StringScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/BasicList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/DoubleLinkQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/ListAccessError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/SingleLinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/SingleLinkStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/list/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/ArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/CharacterArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/IntegerArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/ScopedArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/arrayGenerator/StringArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/linkedList/list/ArrayHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/linkedList/list/Comparison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/linkedList/list/SingleLinkListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/ArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/generator/ArrayGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/CharacterArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/generator/CharacterArrayGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/IntegerArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/generator/IntegerArrayGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/ScopedArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/generator/ScopedArrayGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/generator/StringArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/generator/StringArrayGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/AlphabetScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/scope/AlphabetScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/CharacterScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/scope/CharacterScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/IntegerScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/scope/IntegerScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/scope/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/arrayGenerator/scope/StringScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/scope/StringScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/BasicList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/BasicList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/DoubleLinkQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/DoubleLinkQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/ListAccessError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/ListAccessError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/SingleLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/SingleLinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/SingleLinkStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/SingleLinkStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/SinglyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/list/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/linkedList/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/ArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/ArrayGeneratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/CharacterArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/IntegerArrayGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/ScopedArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/ScopedArrayGeneratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/arrayGenerator/StringArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/StringArrayGeneratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/linkedList/list/ArrayHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/linkedList/list/Comparison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7/tests/linkedList/list/SingleLinkListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/BasicList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/DoubleLinkQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/ListAccessError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/SingleLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/SingleLinkStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/node/DoubleLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/node/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/production/week7/linkedList/node/SingleLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/out/test/week7/SingleLinkedList/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/out/test/week7/SingleLinkedList/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/BasicList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/BasicList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/DoubleLinkQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/DoubleLinkQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/ListAccessError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/ListAccessError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/SingleLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/SingleLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/SingleLinkStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/SingleLinkStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/node/DoubleLinkNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/node/DoubleLinkNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/node/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/node/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/src/linkedList/node/SingleLinkNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/src/SingleLinkedList/linkedList/node/SingleLinkNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/IntegerArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/IntegerArrayGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/LinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week9/out/production/week9answer/binaryTree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/out/production/week9answer/binaryTree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/ArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/CharacterArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/IntegerArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/ScopedArrayGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/arrayGenerator/StringArrayGeneratorTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week9/out/test/week9answer/binaryTree/BinaryTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/out/test/week9answer/binaryTree/BinaryTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/src/AVLTrees/AVLtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/src/AVLTrees/AVLtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/src/AVLTrees/BTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/src/AVLTrees/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/src/AVLTrees/SelectionError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/src/AVLTrees/TreeNode.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week9/src/binaryTree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/src/binaryTree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/ArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/ArrayGeneratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/CharacterArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/CharacterArrayGeneratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/IntegerArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7/tests/SingleLinkedList/IntegerArrayGeneratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/ScopedArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/ScopedArrayGeneratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9/tests/arrayGenerator/StringArrayGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/tests/binaryTree/ArrayGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/ArrayGeneratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week9/tests/binaryTree/BinaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/BinaryTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/tests/binaryTree/CharacterBinaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9/tests/binaryTree/CharacterBinaryTreeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,13 +100,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/week10$AdjacencyGraphTest.ic" NAME="AdjacencyGraphTest Coverage Results" MODIFIED="1547558052100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>graph.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="698692835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -169,7 +123,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5245" />
+          <entry key="JAVA" value="6158" />
+          <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
     </session>
@@ -179,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+            <state relative-caret-position="284">
+              <caret line="76" column="7" lean-forward="true" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -188,8 +143,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/graph/AdjacencyGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="146" selection-start-line="146" selection-end-line="146" />
+            <state relative-caret-position="393">
+              <caret line="157" column="7" lean-forward="true" selection-end-line="201" />
+              <folding>
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,33 +156,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/graph/GraphError.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/graph/AdjacencyGraphTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/graph/DepthFirstTraversal.java">
+        <entry file="file://$PROJECT_DIR$/test/graph/DepthFirstTraversalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="102" column="7" lean-forward="true" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="7" />
+            <state relative-caret-position="515">
+              <caret line="90" column="36" lean-forward="true" selection-start-line="90" selection-start-column="36" selection-end-line="90" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1925#1926#0" expanded="true" />
-                <element signature="e#1973#1974#0" expanded="true" />
+                <element signature="e#1650#1651#0" expanded="true" />
+                <element signature="e#1680#1681#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graph/DepthFirstTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -239,6 +198,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getneigh</find>
+      <find>getNeigh</find>
+      <find>getNodes</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
@@ -246,11 +212,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/graph/Traversal.java" />
-        <option value="$PROJECT_DIR$/src/graph/GraphError.java" />
-        <option value="$PROJECT_DIR$/test/graph/DepthFirstTraversalTest.java" />
         <option value="$PROJECT_DIR$/src/graph/Graph.java" />
-        <option value="$PROJECT_DIR$/src/graph/AdjacencyGraph.java" />
+        <option value="$PROJECT_DIR$/src/graph/GraphError.java" />
         <option value="$PROJECT_DIR$/test/graph/AdjacencyGraphTest.java" />
+        <option value="$PROJECT_DIR$/test/graph/DepthFirstTraversalTest.java" />
+        <option value="$PROJECT_DIR$/src/graph/AdjacencyGraph.java" />
         <option value="$PROJECT_DIR$/src/graph/DepthFirstTraversal.java" />
       </list>
     </option>
@@ -261,10 +227,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-270" />
-    <option name="y" value="90" />
-    <option name="width" value="1669" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-65" />
+    <option name="y" value="3" />
+    <option name="width" value="1480" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -273,8 +239,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,6 +272,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,10 +282,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547507917665" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547562652899" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week9" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -345,14 +311,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AdjacencyGraphTest">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdjacencyGraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DepthFirstTraversalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week10" />
       <extension name="coverage">
         <pattern>
@@ -361,13 +327,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="graph" />
-      <option name="MAIN_CLASS_NAME" value="graph.AdjacencyGraphTest" />
+      <option name="MAIN_CLASS_NAME" value="graph.DepthFirstTraversalTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdjacencyGraphTest.testFiveNodesNineEdges" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DepthFirstTraversalTest.testFiveNodesNineEdges" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week10" />
       <extension name="coverage">
         <pattern>
@@ -376,7 +342,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="graph" />
-      <option name="MAIN_CLASS_NAME" value="graph.AdjacencyGraphTest" />
+      <option name="MAIN_CLASS_NAME" value="graph.DepthFirstTraversalTest" />
       <option name="METHOD_NAME" value="testFiveNodesNineEdges" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -399,13 +365,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.AdjacencyGraphTest" />
-      <item itemvalue="JUnit.AdjacencyGraphTest.testFiveNodesNineEdges" />
+      <item itemvalue="JUnit.DepthFirstTraversalTest" />
+      <item itemvalue="JUnit.DepthFirstTraversalTest.testFiveNodesNineEdges" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AdjacencyGraphTest" />
-        <item itemvalue="JUnit.AdjacencyGraphTest.testFiveNodesNineEdges" />
+        <item itemvalue="JUnit.DepthFirstTraversalTest" />
+        <item itemvalue="JUnit.DepthFirstTraversalTest.testFiveNodesNineEdges" />
       </list>
     </recent_temporary>
   </component>
@@ -420,48 +386,49 @@
       <option name="presentableId" value="Default" />
       <updated>1543082644183</updated>
       <workItem from="1547500549061" duration="7365000" />
+      <workItem from="1547557640455" duration="5123000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdjacencyGraphTest - 2019.01.14 at 23h 08m 20s.xml">
+    <history-entry file="AdjacencyGraphTest - 2019.01.15 at 13h 16m 18s.xml">
       <configuration name="AdjacencyGraphTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacencyGraphTest - 2019.01.14 at 23h 09m 49s.xml">
+    <history-entry file="AdjacencyGraphTest - 2019.01.15 at 13h 17m 30s.xml">
       <configuration name="AdjacencyGraphTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacencyGraphTest_testFiveNodesNineEdges - 2019.01.14 at 23h 10m 10s.xml">
-      <configuration name="AdjacencyGraphTest.testFiveNodesNineEdges" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacencyGraphTest_testFiveNodesNineEdges - 2019.01.14 at 23h 10m 57s.xml">
-      <configuration name="AdjacencyGraphTest.testFiveNodesNineEdges" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacencyGraphTest_testFiveNodesNineEdges - 2019.01.14 at 23h 12m 16s.xml">
-      <configuration name="AdjacencyGraphTest.testFiveNodesNineEdges" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacencyGraphTest_testFiveNodesNineEdges - 2019.01.14 at 23h 12m 24s.xml">
-      <configuration name="AdjacencyGraphTest.testFiveNodesNineEdges" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacencyGraphTest_testFiveNodesNineEdges - 2019.01.14 at 23h 12m 36s.xml">
-      <configuration name="AdjacencyGraphTest.testFiveNodesNineEdges" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacencyGraphTest_testFiveNodesNineEdges - 2019.01.14 at 23h 13m 02s.xml">
-      <configuration name="AdjacencyGraphTest.testFiveNodesNineEdges" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacencyGraphTest_testFiveNodesNineEdges - 2019.01.14 at 23h 13m 19s.xml">
-      <configuration name="AdjacencyGraphTest.testFiveNodesNineEdges" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacencyGraphTest - 2019.01.14 at 23h 18m 10s.xml">
+    <history-entry file="AdjacencyGraphTest - 2019.01.15 at 13h 17m 41s.xml">
       <configuration name="AdjacencyGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdjacencyGraphTest - 2019.01.15 at 13h 20m 05s.xml">
+      <configuration name="AdjacencyGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdjacencyGraphTest - 2019.01.15 at 13h 21m 26s.xml">
+      <configuration name="AdjacencyGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdjacencyGraphTest - 2019.01.15 at 13h 21m 32s.xml">
+      <configuration name="AdjacencyGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdjacencyGraphTest - 2019.01.15 at 13h 22m 49s.xml">
+      <configuration name="AdjacencyGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdjacencyGraphTest - 2019.01.15 at 13h 23m 40s.xml">
+      <configuration name="AdjacencyGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DepthFirstTraversalTest - 2019.01.15 at 13h 46m 03s.xml">
+      <configuration name="DepthFirstTraversalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DepthFirstTraversalTest - 2019.01.15 at 13h 46m 47s.xml">
+      <configuration name="DepthFirstTraversalTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7365000" />
+    <option name="totallyTimeSpent" value="12488000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -481,7 +448,6 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32936078" />
-      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -490,6 +456,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,16 +476,7 @@
     <entry file="file://$PROJECT_DIR$/week10.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/graph/DepthFirstTraversalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/graph/DepthFirstTraversalTest.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.4.0-M1/junit-platform-commons-1.4.0-M1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -528,43 +486,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        <state relative-caret-position="284">
+          <caret line="76" column="7" lean-forward="true" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/GraphError.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/AdjacencyGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="146" selection-start-line="146" selection-end-line="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/graph/AdjacencyGraphTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        <state relative-caret-position="393">
+          <caret line="157" column="7" lean-forward="true" selection-end-line="201" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/DepthFirstTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="102" column="7" lean-forward="true" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="7" />
+        <state relative-caret-position="274">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1925#1926#0" expanded="true" />
-            <element signature="e#1973#1974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/graph/DepthFirstTraversalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="90" column="36" lean-forward="true" selection-start-line="90" selection-start-column="36" selection-end-line="90" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#1680#1681#0" expanded="true" />
           </folding>
         </state>
       </provider>

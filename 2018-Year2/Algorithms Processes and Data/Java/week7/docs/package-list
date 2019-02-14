@@ -1,5 +1,5 @@
 SingleLinkedList
 SingleLinkedList.generator
 SingleLinkedList.scope
-linkedList.list
-linkedList.node
+SingleLinkedList.linkedList.list
+SingleLinkedList.linkedList.node

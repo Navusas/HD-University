@@ -4,7 +4,6 @@ import arrayGenerator.generator.ArrayGenerator;
 import arrayGenerator.generator.CharacterArrayGenerator;
 import arrayGenerator.generator.ScopedArrayGenerator;
 import arrayGenerator.scope.Scope;
-import org.junit.jupiter.api.Test;
 
 /**
  * @author Domantas Giedraitis (student id: u1757704 )

@@ -131,32 +131,30 @@ public class BinaryTree<T extends Comparable<? super T>> implements BTree<T> {
     @Override
     public boolean contains(T value) {
         boolean contains = false; // initialize local variable
-        if(value == root.getValue()) { // check if value requeired is not a root value
+        if (value == root.getValue()) { // check if value requeired is not a root value
             return true;
-        }
-        else {
-            if(containsHelper(root.getLeft(), value,contains)){ // check all left leaves of tree
+        } else {
+            if (containsHelper(root.getLeft(), value, contains)) { // check all left leaves of tree
                 return true;
-            }
-            else return containsHelper(root.getRight(), value,contains); // check all right leaves of tree
+            } else return containsHelper(root.getRight(), value, contains); // check all right leaves of tree
         }
     }
 
     /**
      * Recursively check each node to find the given value
      *
-     * @param node the current root node
+     * @param node  the current root node
      * @param value the value to be checked
      * @return true if the value is in the tree, false otherwise
      */
     public boolean containsHelper(BTree<T> node, T value, boolean contains) {
-        if(contains) return true; // return true if value was found
-        if (node.getValue() == value) contains =  true;
+        if (contains) return true; // return true if value was found
+        if (node.getValue() == value) contains = true;
         else if (node.getLeft() != null) {
-            containsHelper(node.getLeft(), value,contains); // call recursively changing the root node
+            containsHelper(node.getLeft(), value, contains); // call recursively changing the root node
             contains = true;
         } else if (node.getRight() != null) {
-            containsHelper(node.getRight(), value,contains); // call recursively changing the root node
+            containsHelper(node.getRight(), value, contains); // call recursively changing the root node
             contains = true;
         }
         return contains;
@@ -170,9 +168,9 @@ public class BinaryTree<T extends Comparable<? super T>> implements BTree<T> {
     @Override
     public List<T> traverse() {
         List<T> sortedList = new ArrayList<>(); // initialize new list
-        InOrderTraversal(root.getLeft(),sortedList); // sort and add to list all left leaves of tree
+        InOrderTraversal(root.getLeft(), sortedList); // sort and add to list all left leaves of tree
         sortedList.add(root.getValue()); // add the root
-        InOrderTraversal(root.getRight(),sortedList); // sort and add to list all right leaves of tree
+        InOrderTraversal(root.getRight(), sortedList); // sort and add to list all right leaves of tree
         return sortedList; // return the list
     }
 
@@ -183,23 +181,22 @@ public class BinaryTree<T extends Comparable<? super T>> implements BTree<T> {
      * @param node the current node
      * @param list the list where non null, sorted nodes values are going to be added
      */
-    private void InOrderTraversal(BTree<T> node, List<T> list)
-    {
-        if (node != null)
-        {
-            InOrderTraversal(node.getLeft(),list);
-            if(node.getValue() != null)
+    private void InOrderTraversal(BTree<T> node, List<T> list) {
+        if (node != null) {
+            InOrderTraversal(node.getLeft(), list);
+            if (node.getValue() != null)
                 list.add(node.getValue());
-            InOrderTraversal(node.getRight(),list);
+            InOrderTraversal(node.getRight(), list);
         }
     }
 
     /**
      * Executes traversal method, gets the list and checks it size
+     *
      * @return the size of the binary tree
      */
     public int size() {
-        if(isEmpty()) return 0;
+        if (isEmpty()) return 0;
         else return traverse().size();
     }
 }

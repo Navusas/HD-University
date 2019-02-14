@@ -9,12 +9,12 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 /**
  * Provides some basic tests for array generators:
  * <ul>
- *     <li> Do the generators generate arrays of the correct size?</li>
- *     <li> Do the generators throw the expected negative array size exception if asked to generate
- *          an array of negative size?</li>
+ * <li> Do the generators generate arrays of the correct size?</li>
+ * <li> Do the generators throw the expected negative array size exception if asked to generate
+ * an array of negative size?</li>
  * </ul>
  */
- public abstract class ArrayGeneratorTest<T> {
+public abstract class ArrayGeneratorTest<T> {
 
     public abstract ArrayGenerator<T> getGenerator();
 
@@ -25,7 +25,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
      */
     private void testSize(int size) {
         ArrayGenerator generator = getGenerator();
-        assertEquals(size,generator.getArray(size).length);
+        assertEquals(size, generator.getArray(size).length);
     }
 
     @Test
@@ -55,11 +55,11 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
     @Test
     void testArray_sizeMinuesOne() {
-        assertThrows(NegativeArraySizeException.class, ()->testSize(-1));
+        assertThrows(NegativeArraySizeException.class, () -> testSize(-1));
     }
 
     @Test
     void testArray_sizeMinusFiftyFive() {
-        assertThrows(NegativeArraySizeException.class, ()->testSize(-58));
+        assertThrows(NegativeArraySizeException.class, () -> testSize(-58));
     }
 }
