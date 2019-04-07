@@ -269,13 +269,9 @@ public class Counter extends Thread
      * Run this counter.
      */
     public void run() {
-    	// Implement run() here.
-        // This should run the counter, by initialising the count, then, as long as the counter is not
-        // finished, step the counter.
-        // Use the methods defined above to implement this behaviour.
-        startCount();
-        while (!isFinished()) {
-            stepCount();
+        startCount(); // starts the count for the thread
+        while (!isFinished()) { // check if thread has finished
+            stepCount(); // access critical section (shared variable)
         }
     }
 }
